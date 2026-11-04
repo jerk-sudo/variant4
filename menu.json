@@ -1,0 +1,2861 @@
+{
+  "restaurant": {
+    "name": "Айсель",
+    "concept": "Modern Azerbaijani × Ukrainian Restaurant",
+    "pillars": [
+      "Натуральні продукти",
+      "Азербайджанська кухня",
+      "Незабутній смак"
+    ],
+    "palette": {
+      "dark_green": "#173D32",
+      "milk": "#F4EBDD",
+      "pomegranate": "#A94332",
+      "gold": "#C69A54",
+      "graphite": "#26302C"
+    },
+    "contacts": {
+      "address": null,
+      "phone": null,
+      "working_hours": null,
+      "note": "У вихідному файлі menu_aisel.md адреса, телефон та графік роботи відсутні (вигадані контакти не додавалися згідно з п. 6 ТЗ)."
+    }
+  },
+  "categories": [
+    {
+      "id": "grill-dishes",
+      "name": "Страви з мангалу",
+      "original_header": "СТРАВИ З МАНГАЛУ",
+      "is_duplicate_without_weight": false,
+      "note": "Усі позиції мангалу із зазначенням виходу порції та ціни.",
+      "items": [
+        {
+          "name": "Чалат (печінка, серце, нирки в жировій сітці)",
+          "composition": "печінка, серце, нирки в жировій сітці",
+          "weight": "250 г",
+          "price": "250 грн",
+          "photo_key": "chalat",
+          "photo_status": "flagged",
+          "photo_note": "Рідкісна страва з субпродуктів у жировій сітці (джиз-биз/чалагач-субпродукти). Показано референс шашлику з печінки; рекомендована власна фотосесія Top-View.",
+          "id": "dish-1",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Ci%C4%9Fer_kebab.jpg/960px-Ci%C4%9Fer_kebab.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Ci%C4%9Fer_kebab.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Ci%C4%9Fer_kebab.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "E4024",
+            "source": "Wikimedia Commons",
+            "match_status": "flagged",
+            "note": "Рідкісна страва з субпродуктів у жировій сітці (джиз-биз/чалагач-субпродукти). Показано референс шашлику з печінки; рекомендована власна фотосесія Top-View.",
+            "local_url": "assets/dishes/chalat.jpg"
+          },
+          "aliases": [
+            "шашлик",
+            "шашлык",
+            "кебаб",
+            "мангал",
+            "субпродукти",
+            "субпродукты",
+            "печень",
+            "сердце",
+            "почки",
+            "джиз-биз",
+            "в сітці",
+            "в сетке"
+          ]
+        },
+        {
+          "name": "Хан-кебаб (печінка в жировій сітці)",
+          "composition": "печінка в жировій сітці",
+          "weight": "250 г",
+          "price": "250 грн",
+          "photo_key": "khan_kebab",
+          "photo_status": "flagged",
+          "photo_note": "Традиційний азербайджанський хан-кебаб у жировій сітці. У відкритих стоках представлений кебаб із печінки; бажана студійна зйомка подачі кафе.",
+          "id": "dish-2",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Ci%C4%9Fer_kebab.jpg/960px-Ci%C4%9Fer_kebab.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Ci%C4%9Fer_kebab.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Ci%C4%9Fer_kebab.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "E4024",
+            "source": "Wikimedia Commons",
+            "match_status": "flagged",
+            "note": "Традиційний азербайджанський хан-кебаб у жировій сітці. У відкритих стоках представлений кебаб із печінки; бажана студійна зйомка подачі кафе.",
+            "local_url": "assets/dishes/khan_kebab.jpg"
+          },
+          "aliases": [
+            "шашлик",
+            "шашлык",
+            "кебаб",
+            "хан кебаб",
+            "мангал",
+            "печінка",
+            "печень",
+            "в жировій сітці",
+            "в сетке",
+            "азербайджанський"
+          ]
+        },
+        {
+          "name": "Люля-кебаб з яловичиною",
+          "composition": null,
+          "weight": "200 г",
+          "price": "200 грн",
+          "photo_key": "lula_beef",
+          "photo_status": "exact",
+          "photo_note": "Відповідає страві (люля-кебаб на тарілці).",
+          "id": "dish-3",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Azerbaijani_lyulya_kebab.jpg/960px-Azerbaijani_lyulya_kebab.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Azerbaijani_lyulya_kebab.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Azerbaijani_lyulya_kebab.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Rt788",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Відповідає страві (люля-кебаб на тарілці).",
+            "local_url": "assets/dishes/lula_beef.jpg"
+          },
+          "aliases": [
+            "люля",
+            "кебаб",
+            "шашлик",
+            "шашлык",
+            "мангал",
+            "яловичина",
+            "говядина",
+            "телятина",
+            "фарш",
+            "рублене м'ясо"
+          ]
+        },
+        {
+          "name": "Люля-кебаб баранина",
+          "composition": null,
+          "weight": "200 г",
+          "price": "200 грн",
+          "photo_key": "lula_lamb",
+          "photo_status": "exact",
+          "photo_note": "Відповідає страві (люля-кебаб з баранини).",
+          "id": "dish-4",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Azerbaijani_lyulya_kebab.jpg/960px-Azerbaijani_lyulya_kebab.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Azerbaijani_lyulya_kebab.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Azerbaijani_lyulya_kebab.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Rt788",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Відповідає страві (люля-кебаб з баранини).",
+            "local_url": "assets/dishes/lula_lamb.jpg"
+          },
+          "aliases": [
+            "люля",
+            "кебаб",
+            "шашлик",
+            "шашлык",
+            "мангал",
+            "баранина",
+            "ягнятина",
+            "фарш",
+            "азербайджанський"
+          ]
+        },
+        {
+          "name": "Люля-кебаб свинина",
+          "composition": null,
+          "weight": "200 г",
+          "price": "200 грн",
+          "photo_key": "lula_pork",
+          "photo_status": "exact",
+          "photo_note": "Відповідає страві (кебаб з рубленого м'яса).",
+          "id": "dish-5",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Adana_Kebap.jpg/960px-Adana_Kebap.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Adana_Kebap.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Adana_Kebap.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Garrett Ziegler",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Відповідає страві (кебаб з рубленого м'яса).",
+            "local_url": "assets/dishes/lula_pork.jpg"
+          },
+          "aliases": [
+            "люля",
+            "кебаб",
+            "шашлик",
+            "шашлык",
+            "мангал",
+            "свинина",
+            "фарш"
+          ]
+        },
+        {
+          "name": "Люля-кебаб курячий",
+          "composition": null,
+          "weight": "200 г",
+          "price": "170 грн",
+          "photo_key": "lula_chicken",
+          "photo_status": "exact",
+          "photo_note": "Відповідає страві (курячий люля-кебаб).",
+          "id": "dish-6",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Cutting_board_personalized_with_name_gingham_napkin_and_chicken_onion_and_pepper_kebabs_on_metal_skewers_and_white_ceramic_plate_%2816967320176%29.jpg/960px-Cutting_board_personalized_with_name_gingham_napkin_and_chicken_onion_and_pepper_kebabs_on_metal_skewers_and_white_ceramic_plate_%2816967320176%29.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Cutting_board_personalized_with_name_gingham_napkin_and_chicken_onion_and_pepper_kebabs_on_metal_skewers_and_white_ceramic_plate_%2816967320176%29.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Cutting_board_personalized_with_name_gingham_napkin_and_chicken_onion_and_pepper_kebabs_on_metal_skewers_and_white_ceramic_plate_(16967320176).jpg",
+            "license": "CC BY 2.0",
+            "artist": "Personal Creations",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Відповідає страві (курячий люля-кебаб).",
+            "local_url": "assets/dishes/lula_chicken.jpg"
+          },
+          "aliases": [
+            "люля",
+            "кебаб",
+            "шашлик",
+            "шашлык",
+            "мангал",
+            "курка",
+            "курица",
+            "курятина",
+            "птиця"
+          ]
+        },
+        {
+          "name": "Телятина",
+          "composition": null,
+          "weight": "250 г",
+          "price": "280 грн",
+          "photo_key": "veal_shashlik",
+          "photo_status": "exact",
+          "photo_note": "Відповідає страві (шашлик з телятини/яловичини на білій тарілці).",
+          "id": "dish-7",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Homemade_Beef_Shashlik_with_tomato_and_lemon_in_white_plate_01.jpg/960px-Homemade_Beef_Shashlik_with_tomato_and_lemon_in_white_plate_01.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Homemade_Beef_Shashlik_with_tomato_and_lemon_in_white_plate_01.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Homemade_Beef_Shashlik_with_tomato_and_lemon_in_white_plate_01.jpg",
+            "license": "CC BY-SA 3.0",
+            "artist": "Afifa Afrin",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Відповідає страві (шашлик з телятини/яловичини на білій тарілці).",
+            "local_url": "assets/dishes/veal_shashlik.jpg"
+          },
+          "aliases": [
+            "шашлик",
+            "шашлык",
+            "кебаб",
+            "бастурма",
+            "мангал",
+            "телятина",
+            "яловичина",
+            "говядина",
+            "м'ясо",
+            "мясо"
+          ]
+        },
+        {
+          "name": "Каре баранини",
+          "composition": null,
+          "weight": "250 г",
+          "price": "280 грн",
+          "photo_key": "lamb_rack",
+          "photo_status": "exact",
+          "photo_note": "Відповідає страві (каре баранини на грилі).",
+          "id": "dish-8",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Liat_Portal_for_Foodie_Disorder_-_Homemade_Lamb_Chops_with_Rice_and_Grilled_Vegetables.jpg/960px-Liat_Portal_for_Foodie_Disorder_-_Homemade_Lamb_Chops_with_Rice_and_Grilled_Vegetables.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Liat_Portal_for_Foodie_Disorder_-_Homemade_Lamb_Chops_with_Rice_and_Grilled_Vegetables.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Homemade_Lamb_Chops_with_Rice_and_Grilled_Vegetables.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "HaJunkiyada",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Відповідає страві (каре баранини на грилі).",
+            "local_url": "assets/dishes/lamb_rack.jpg"
+          },
+          "aliases": [
+            "шашлик",
+            "шашлык",
+            "кебаб",
+            "чалагач",
+            "каре",
+            "ребра",
+            "ребрышки",
+            "баранина",
+            "ягнятина",
+            "мангал",
+            "на кістці"
+          ]
+        },
+        {
+          "name": "Баранина (м'якоть)",
+          "composition": "м'якоть",
+          "weight": "250 г",
+          "price": "250 грн",
+          "photo_key": "lamb_shashlik",
+          "photo_status": "exact",
+          "photo_note": "Відповідає страві (шашлик з м'якоті баранини).",
+          "id": "dish-9",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/GER_%E2%80%94_BY_%E2%80%94_Oberbayern_%E2%80%94_M%C3%BCnchen_%E2%80%94_Obergiesing_%E2%80%94_St.-Martin-Stra%C3%9Fe_38_%28Lammspiess%29_2020.jpg/960px-GER_%E2%80%94_BY_%E2%80%94_Oberbayern_%E2%80%94_M%C3%BCnchen_%E2%80%94_Obergiesing_%E2%80%94_St.-Martin-Stra%C3%9Fe_38_%28Lammspiess%29_2020.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/GER_%E2%80%94_BY_%E2%80%94_Oberbayern_%E2%80%94_M%C3%BCnchen_%E2%80%94_Obergiesing_%E2%80%94_St.-Martin-Stra%C3%9Fe_38_%28Lammspiess%29_2020.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:GER_%E2%80%94_BY_%E2%80%94_Oberbayern_%E2%80%94_M%C3%BCnchen_%E2%80%94_Obergiesing_%E2%80%94_St.-Martin-Stra%C3%9Fe_38_(Lammspiess)_2020.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "User:Mateus2019",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Відповідає страві (шашлик з м'якоті баранини).",
+            "local_url": "assets/dishes/lamb_shashlik.jpg"
+          },
+          "aliases": [
+            "шашлик",
+            "шашлык",
+            "кебаб",
+            "баранина",
+            "ягнятина",
+            "м'якоть",
+            "мякоть",
+            "мангал",
+            "тике кебаб"
+          ]
+        },
+        {
+          "name": "Свинина ребро",
+          "composition": null,
+          "weight": "250 г",
+          "price": "200 грн",
+          "photo_key": "pork_ribs_grill",
+          "photo_status": "exact",
+          "photo_note": "Відповідає страві (свинячі ребра на мангалі).",
+          "id": "dish-10",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Grilled_Sparerib_on_Easter_Day_2011.JPG/960px-Grilled_Sparerib_on_Easter_Day_2011.JPG",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Grilled_Sparerib_on_Easter_Day_2011.JPG",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Grilled_Sparerib_on_Easter_Day_2011.JPG",
+            "license": "CC BY-SA 3.0",
+            "artist": "Spacekid",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Відповідає страві (свинячі ребра на мангалі).",
+            "local_url": "assets/dishes/pork_ribs_grill.jpg"
+          },
+          "aliases": [
+            "шашлик",
+            "шашлык",
+            "кебаб",
+            "ребра",
+            "ребрышки",
+            "свинина",
+            "мангал",
+            "гриль",
+            "барбекю"
+          ]
+        },
+        {
+          "name": "Свиняча шия",
+          "composition": null,
+          "weight": "250 г",
+          "price": "220 грн",
+          "photo_key": "pork_neck",
+          "photo_status": "exact",
+          "photo_note": "Відповідає страві (шашлик зі свинячої шиї).",
+          "id": "dish-11",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/%D0%A8%D0%B0%D1%88%D0%BB%D1%8B%D0%BA_%D0%B8%D0%B7_%D1%81%D0%B2%D0%B8%D0%BD%D0%B8%D0%BD%D1%8B_%D1%81_%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%88%D0%BA%D0%BE%D0%B9_%D0%B8_%D0%BB%D1%83%D0%BA%D0%BE%D0%BC.jpg/960px-%D0%A8%D0%B0%D1%88%D0%BB%D1%8B%D0%BA_%D0%B8%D0%B7_%D1%81%D0%B2%D0%B8%D0%BD%D0%B8%D0%BD%D1%8B_%D1%81_%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%88%D0%BA%D0%BE%D0%B9_%D0%B8_%D0%BB%D1%83%D0%BA%D0%BE%D0%BC.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/%D0%A8%D0%B0%D1%88%D0%BB%D1%8B%D0%BA_%D0%B8%D0%B7_%D1%81%D0%B2%D0%B8%D0%BD%D0%B8%D0%BD%D1%8B_%D1%81_%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%88%D0%BA%D0%BE%D0%B9_%D0%B8_%D0%BB%D1%83%D0%BA%D0%BE%D0%BC.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:%D0%A8%D0%B0%D1%88%D0%BB%D1%8B%D0%BA_%D0%B8%D0%B7_%D1%81%D0%B2%D0%B8%D0%BD%D0%B8%D0%BD%D1%8B_%D1%81_%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%88%D0%BA%D0%BE%D0%B9_%D0%B8_%D0%BB%D1%83%D0%BA%D0%BE%D0%BC.jpg",
+            "license": "CC0",
+            "artist": "Spacekid",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Відповідає страві (шашлик зі свинячої шиї).",
+            "local_url": "assets/dishes/pork_neck.jpg"
+          },
+          "aliases": [
+            "шашлик",
+            "шашлык",
+            "кебаб",
+            "ошийок",
+            "ошеек",
+            "шия",
+            "шея",
+            "свинина",
+            "мангал",
+            "м'ясо",
+            "мясо"
+          ]
+        },
+        {
+          "name": "Перепілка",
+          "composition": null,
+          "weight": "1 шт.",
+          "price": "230 грн",
+          "photo_key": "quail_grill",
+          "photo_status": "exact",
+          "photo_note": "Відповідає страві (перепілка на мангалі).",
+          "id": "dish-12",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Crispy_Skin_Chicken_and_Tomato_Rice%2C_Spring_Roll%2C_Longan_Drink_-_Combo_4_-_Vietnamese_Grill_Bar_%282462989658%29.jpg/960px-Crispy_Skin_Chicken_and_Tomato_Rice%2C_Spring_Roll%2C_Longan_Drink_-_Combo_4_-_Vietnamese_Grill_Bar_%282462989658%29.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Crispy_Skin_Chicken_and_Tomato_Rice%2C_Spring_Roll%2C_Longan_Drink_-_Combo_4_-_Vietnamese_Grill_Bar_%282462989658%29.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Crispy_Skin_Chicken_and_Tomato_Rice,_Spring_Roll,_Longan_Drink_-_Combo_4_-_Vietnamese_Grill_Bar_(2462989658).jpg",
+            "license": "CC BY-SA 2.0",
+            "artist": "Alpha from Melbourne, Australia",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Відповідає страві (перепілка на мангалі).",
+            "local_url": "assets/dishes/quail_grill.jpg"
+          },
+          "aliases": [
+            "шашлик",
+            "шашлык",
+            "кебаб",
+            "перепелка",
+            "перепілка",
+            "птиця",
+            "птица",
+            "мангал",
+            "дичина"
+          ]
+        },
+        {
+          "name": "Куряче філе",
+          "composition": null,
+          "weight": "250 г",
+          "price": "170 грн",
+          "photo_key": "chicken_fillet_grill",
+          "photo_status": "exact",
+          "photo_note": "Відповідає страві (шашлик із курячого філе).",
+          "id": "dish-13",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Chicken_shashlik_%28Homemade%29.jpg/960px-Chicken_shashlik_%28Homemade%29.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Chicken_shashlik_%28Homemade%29.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Chicken_shashlik_(Homemade).jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Sadiikul",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Відповідає страві (шашлик із курячого філе).",
+            "local_url": "assets/dishes/chicken_fillet_grill.jpg"
+          },
+          "aliases": [
+            "шашлик",
+            "шашлык",
+            "кебаб",
+            "курка",
+            "курица",
+            "куряче філе",
+            "куриное филе",
+            "грудка",
+            "мангал"
+          ]
+        },
+        {
+          "name": "Курячі крильця (3 шт.)",
+          "composition": "3 шт.",
+          "weight": "3 шт.",
+          "price": "150 грн",
+          "photo_key": "chicken_wings",
+          "photo_status": "exact",
+          "photo_note": "Відповідає страві (курячі крильця на грилі).",
+          "id": "dish-14",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/C%C6%A1m_g%C3%A0_s%C6%B0%E1%BB%9Dn_n%C6%B0%E1%BB%9Bng%2C_ng23th8n2022_%28%C4%90%C3%B9i_g%C3%A0_n%C6%B0%E1%BB%9Bng%29_%282%29.jpg/960px-C%C6%A1m_g%C3%A0_s%C6%B0%E1%BB%9Dn_n%C6%B0%E1%BB%9Bng%2C_ng23th8n2022_%28%C4%90%C3%B9i_g%C3%A0_n%C6%B0%E1%BB%9Bng%29_%282%29.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/C%C6%A1m_g%C3%A0_s%C6%B0%E1%BB%9Dn_n%C6%B0%E1%BB%9Bng%2C_ng23th8n2022_%28%C4%90%C3%B9i_g%C3%A0_n%C6%B0%E1%BB%9Bng%29_%282%29.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:C%C6%A1m_g%C3%A0_s%C6%B0%E1%BB%9Dn_n%C6%B0%E1%BB%9Bng,_ng23th8n2022_(%C4%90%C3%B9i_g%C3%A0_n%C6%B0%E1%BB%9Bng)_(2).jpg",
+            "license": "CC0",
+            "artist": "Phương Huy",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Відповідає страві (курячі крильця на грилі).",
+            "local_url": "assets/dishes/chicken_wings.jpg"
+          },
+          "aliases": [
+            "шашлик",
+            "шашлык",
+            "кебаб",
+            "крильця",
+            "крылышки",
+            "курка",
+            "курица",
+            "мангал",
+            "до пива"
+          ]
+        },
+        {
+          "name": "Сулугуні в лаваші (сулугуні, помідор)",
+          "composition": "сулугуні, помідор",
+          "weight": "1 шт.",
+          "price": "110 грн",
+          "photo_key": "suluguni_lavash",
+          "photo_status": "flagged",
+          "photo_note": "Авторська подача сулугуні з томатом у лаваші на вугіллі. Показано сирну випічку/лаваш; рекомендовано сфотографувати оригінальну подачу.",
+          "id": "dish-15",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Georgian_Khachapuri_cheese_bread.jpg/960px-Georgian_Khachapuri_cheese_bread.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Georgian_Khachapuri_cheese_bread.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Georgian_Khachapuri_cheese_bread.jpg",
+            "license": "CC BY-SA 2.0",
+            "artist": "Jon Gudorf Photography",
+            "source": "Wikimedia Commons",
+            "match_status": "flagged",
+            "note": "Авторська подача сулугуні з томатом у лаваші на вугіллі. Показано сирну випічку/лаваш; рекомендовано сфотографувати оригінальну подачу.",
+            "local_url": "assets/dishes/suluguni_lavash.jpg"
+          },
+          "aliases": [
+            "шашлик",
+            "шашлык",
+            "хачапурі",
+            "хачапури",
+            "сир",
+            "сыр",
+            "сулугуни",
+            "лаваш",
+            "мангал",
+            "гаряча закуска"
+          ]
+        },
+        {
+          "name": "Картопля",
+          "composition": null,
+          "weight": "200 г",
+          "price": "50 грн",
+          "photo_key": "potato_grill",
+          "photo_status": "exact",
+          "photo_note": "Відповідає страві (картопля на мангалі).",
+          "id": "dish-16",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/DSCF1107_Skewered_baby_octopus_grilled_to_a_golden_finish_ready_to_be_served_as_a_savory_street-food_snack.jpg/960px-DSCF1107_Skewered_baby_octopus_grilled_to_a_golden_finish_ready_to_be_served_as_a_savory_street-food_snack.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/DSCF1107_Skewered_baby_octopus_grilled_to_a_golden_finish_ready_to_be_served_as_a_savory_street-food_snack.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:DSCF1107_Skewered_baby_octopus_grilled_to_a_golden_finish_ready_to_be_served_as_a_savory_street-food_snack.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "PattayaPatrol",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Відповідає страві (картопля на мангалі).",
+            "local_url": "assets/dishes/potato_grill.jpg"
+          },
+          "aliases": [
+            "шашлик",
+            "шашлык",
+            "кебаб",
+            "картошка",
+            "картопля на мангалі",
+            "печена картопля",
+            "гарнір",
+            "гарнир",
+            "овочі"
+          ]
+        },
+        {
+          "name": "Гриби",
+          "composition": null,
+          "weight": "5 шт.",
+          "price": "110 грн",
+          "photo_key": "mushrooms_grill",
+          "photo_status": "exact",
+          "photo_note": "Відповідає страві (печериці на мангалі).",
+          "id": "dish-17",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Brocheta_de_Setas%2C_comida_japonesa.jpg/960px-Brocheta_de_Setas%2C_comida_japonesa.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Brocheta_de_Setas%2C_comida_japonesa.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Brocheta_de_Setas,_comida_japonesa.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Juan Emilio Prades Bel",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Відповідає страві (печериці на мангалі).",
+            "local_url": "assets/dishes/mushrooms_grill.jpg"
+          },
+          "aliases": [
+            "шашлик",
+            "шашлык",
+            "кебаб",
+            "грибы",
+            "шампиньоны",
+            "печериці",
+            "мангал",
+            "овочі"
+          ]
+        },
+        {
+          "name": "Скумбрія (філе)",
+          "composition": "філе",
+          "weight": "340-380 г",
+          "price": "320 грн",
+          "photo_key": "mackerel_grill",
+          "photo_status": "exact",
+          "photo_note": "Відповідає страві (скумбрія на грилі).",
+          "id": "dish-18",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Fish_shaped_plates.jpg/960px-Fish_shaped_plates.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Fish_shaped_plates.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Fish_shaped_plates.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "E4024",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Відповідає страві (скумбрія на грилі).",
+            "local_url": "assets/dishes/mackerel_grill.jpg"
+          },
+          "aliases": [
+            "шашлик",
+            "шашлык",
+            "кебаб",
+            "риба",
+            "рыба",
+            "скумбрия",
+            "мангал",
+            "гриль",
+            "морепродукти"
+          ]
+        },
+        {
+          "name": "Овочі на мангалі (перець, помідор, кабачок)",
+          "composition": "перець, помідор, кабачок",
+          "weight": "—",
+          "price": "120 грн",
+          "photo_key": "veg_grill",
+          "photo_status": "exact",
+          "photo_note": "Відповідає страві (запечені овочі на мангалі).",
+          "id": "dish-19",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Liat_Portal_for_Foodie_Disorder_-_Grilled_Chicken_with_Roasted_Vegetables.jpg/960px-Liat_Portal_for_Foodie_Disorder_-_Grilled_Chicken_with_Roasted_Vegetables.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Liat_Portal_for_Foodie_Disorder_-_Grilled_Chicken_with_Roasted_Vegetables.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Grilled_Chicken_with_Roasted_Vegetables.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "HaJunkiyada",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Відповідає страві (запечені овочі на мангалі).",
+            "local_url": "assets/dishes/veg_grill.jpg"
+          },
+          "aliases": [
+            "шашлик",
+            "шашлык",
+            "кебаб",
+            "овощи на мангале",
+            "овочі гриль",
+            "баклажан",
+            "перець",
+            "помідор",
+            "кабачок",
+            "хоровац",
+            "аджапсандал"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sauces",
+      "name": "Соуси",
+      "original_header": "СОУСИ",
+      "is_duplicate_without_weight": false,
+      "note": null,
+      "items": [
+        {
+          "name": "Томатний до шашлику",
+          "composition": null,
+          "weight": "100 г",
+          "price": "50 грн",
+          "photo_key": "sauce_tomato",
+          "photo_status": "exact",
+          "photo_note": "Томатний соус у піалі.",
+          "id": "dish-39",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Condiments_for_Pupusas_in_El_Salvador_2012.jpg/960px-Condiments_for_Pupusas_in_El_Salvador_2012.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Condiments_for_Pupusas_in_El_Salvador_2012.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Condiments_for_Pupusas_in_El_Salvador_2012.jpg",
+            "license": "CC0",
+            "artist": "Ll1324",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Томатний соус у піалі.",
+            "local_url": "assets/dishes/sauce_tomato.jpg"
+          },
+          "aliases": [
+            "соус",
+            "томатный",
+            "до шашлику",
+            "к шашлыку",
+            "сацебелі",
+            "сацебели",
+            "аджика"
+          ]
+        },
+        {
+          "name": "Сметано-часниковий",
+          "composition": null,
+          "weight": "100 г",
+          "price": "50 грн",
+          "photo_key": "sauce_garlic",
+          "photo_status": "exact",
+          "photo_note": "Білий сметано-часниковий соус.",
+          "id": "dish-40",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Beef_steak_bowl_with_western-style_garlic_sauce_of_Matsuya.jpg/960px-Beef_steak_bowl_with_western-style_garlic_sauce_of_Matsuya.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Beef_steak_bowl_with_western-style_garlic_sauce_of_Matsuya.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Beef_steak_bowl_with_western-style_garlic_sauce_of_Matsuya.jpg",
+            "license": "CC0",
+            "artist": "毒島みるく",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Білий сметано-часниковий соус.",
+            "local_url": "assets/dishes/sauce_garlic.jpg"
+          },
+          "aliases": [
+            "соус",
+            "чесночный",
+            "часниковий",
+            "сметанный",
+            "білий соус",
+            "белый соус",
+            "до шашлику"
+          ]
+        },
+        {
+          "name": "Гранатовий «Нар Шараб»",
+          "composition": null,
+          "weight": "50 г",
+          "price": "70 грн",
+          "photo_key": "sauce_narsharab",
+          "photo_status": "exact",
+          "photo_note": "Азербайджанський гранатовий соус Наршараб.",
+          "id": "dish-41",
+          "photo": {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Narsharab.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Narsharab.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Narsharab.jpg",
+            "license": "CC0",
+            "artist": "А. Кабанов",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Азербайджанський гранатовий соус Наршараб.",
+            "local_url": "assets/dishes/sauce_narsharab.jpg"
+          },
+          "aliases": [
+            "соус",
+            "наршараб",
+            "нар шараб",
+            "гранатовый",
+            "азербайджанський",
+            "до м'яса",
+            "до риби"
+          ]
+        },
+        {
+          "name": "Майонез",
+          "composition": null,
+          "weight": "100 г",
+          "price": "50 грн",
+          "photo_key": "sauce_mayo",
+          "photo_status": "exact",
+          "photo_note": "Майонез у соуснику.",
+          "id": "dish-42",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Beef_with_takana_and_mentaiko_mayonnaise_bowl_of_Sukiya.jpg/960px-Beef_with_takana_and_mentaiko_mayonnaise_bowl_of_Sukiya.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Beef_with_takana_and_mentaiko_mayonnaise_bowl_of_Sukiya.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Beef_with_takana_and_mentaiko_mayonnaise_bowl_of_Sukiya.jpg",
+            "license": "CC0",
+            "artist": "毒島みるく",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Майонез у соуснику.",
+            "local_url": "assets/dishes/sauce_mayo.jpg"
+          },
+          "aliases": [
+            "соус",
+            "майонез",
+            "білий"
+          ]
+        },
+        {
+          "name": "Кетчуп",
+          "composition": null,
+          "weight": "100 г",
+          "price": "50 грн",
+          "photo_key": "sauce_ketchup",
+          "photo_status": "exact",
+          "photo_note": "Кетчуп у соуснику.",
+          "id": "dish-43",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Curry_ketchup.jpg/960px-Curry_ketchup.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Curry_ketchup.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Curry_ketchup.jpg",
+            "license": "CC0",
+            "artist": "RudolfSchreier",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Кетчуп у соуснику.",
+            "local_url": "assets/dishes/sauce_ketchup.jpg"
+          },
+          "aliases": [
+            "соус",
+            "кетчуп",
+            "томатный"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "flatbread",
+      "name": "Лепешка",
+      "original_header": "ЛЕПЕШКА",
+      "is_duplicate_without_weight": false,
+      "note": null,
+      "items": [
+        {
+          "name": "Лепешка (лаваш)",
+          "composition": "лаваш",
+          "weight": "1 шт.",
+          "price": "50 грн",
+          "photo_key": "flatbread",
+          "photo_status": "exact",
+          "photo_note": "Традиційний тандирний коржик/чурек.",
+          "id": "dish-44",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Naan_Flatbread_inside_Tandoor_01.jpg/960px-Naan_Flatbread_inside_Tandoor_01.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Naan_Flatbread_inside_Tandoor_01.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Naan_Flatbread_inside_Tandoor_01.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Ravi Dwivedi",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Традиційний тандирний коржик/чурек.",
+            "local_url": "assets/dishes/flatbread.jpg"
+          },
+          "aliases": [
+            "хліб",
+            "хлеб",
+            "лепьошка",
+            "лаваш",
+            "чурек",
+            "тандир",
+            "тандыр",
+            "випічка"
+          ]
+        },
+        {
+          "name": "Лаваш (листовий)",
+          "composition": "листовий",
+          "weight": "1 шт.",
+          "price": "50 грн",
+          "photo_key": "lavash",
+          "photo_status": "exact",
+          "photo_note": "Тонкий листовий лаваш.",
+          "id": "dish-45",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Lavash_Bakers_%281%29.jpg/960px-Lavash_Bakers_%281%29.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Lavash_Bakers_%281%29.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Lavash_Bakers_(1).jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Armineaghayan",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Тонкий листовий лаваш.",
+            "local_url": "assets/dishes/lavash.jpg"
+          },
+          "aliases": [
+            "хліб",
+            "хлеб",
+            "лаваш",
+            "тонкий лаваш",
+            "вірменський лаваш",
+            "випічка"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "salads",
+      "name": "Салати",
+      "original_header": "САЛАТИ (Основний та Альтернативний блоки)",
+      "is_duplicate_without_weight": false,
+      "note": "Об'єднує «Основний блок салатів» (12 позицій з розшифровкою складу) та «Альтернативний блок салатів» (4 позиції).",
+      "items": [
+        {
+          "name": "Айсель",
+          "subblock": "Основний блок салатів",
+          "composition": "кальмар, міді, креветки, свіжий огірок, мікс салату, яйце, соус.",
+          "weight": "250 г",
+          "price": "270 грн",
+          "photo_key": "salad_seafood_aysel",
+          "photo_status": "exact",
+          "photo_note": "Фірмовий морський салат з морепродуктами.",
+          "id": "dish-46",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/DFC_5372%2C_Spicy_Thai_seafood_salad_with_prawns%2C_squid_and_mushrooms%2C_tossed_with_fresh_herbs_and_chilies_-_a_zesty_plate_from_Klet_Kaeo%2C_Sattahip._-_Flickr_-_PattayaPatrol.jpg/960px-thumbnail.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/DFC_5372%2C_Spicy_Thai_seafood_salad_with_prawns%2C_squid_and_mushrooms%2C_tossed_with_fresh_herbs_and_chilies_-_a_zesty_plate_from_Klet_Kaeo%2C_Sattahip._-_Flickr_-_PattayaPatrol.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:DFC_5372,_Spicy_Thai_seafood_salad_with_prawns,_squid_and_mushrooms,_tossed_with_fresh_herbs_and_chilies_-_a_zesty_plate_from_Klet_Kaeo,_Sattahip._-_Flickr_-_PattayaPatrol.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Pattaya Patrol from Pattaya",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Фірмовий морський салат з морепродуктами.",
+            "local_url": "assets/dishes/salad_seafood_aysel.jpg"
+          },
+          "aliases": [
+            "салат",
+            "фирменный",
+            "фірмовий",
+            "морепродукти",
+            "морепродукты",
+            "креветки",
+            "кальмар",
+            "мидии",
+            "мідії",
+            "рибний"
+          ]
+        },
+        {
+          "name": "Морський ангел",
+          "subblock": "Основний блок салатів",
+          "composition": "кальмар, міді, крабові палички, морква по-корейськи, свіжий огірок, оливки.",
+          "weight": "250 г",
+          "price": "255 грн",
+          "photo_key": "salad_sea_angel",
+          "photo_status": "flagged",
+          "photo_note": "Авторський салат кафе (морепродукти + морква по-корейськи). Показано близький морський салат; позначено для власної фотозйомки.",
+          "id": "dish-47",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Avocado_and_king_crab.jpg/960px-Avocado_and_king_crab.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Avocado_and_king_crab.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Avocado_and_king_crab.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "E4024",
+            "source": "Wikimedia Commons",
+            "match_status": "flagged",
+            "note": "Авторський салат кафе (морепродукти + морква по-корейськи). Показано близький морський салат; позначено для власної фотозйомки.",
+            "local_url": "assets/dishes/salad_sea_angel.jpg"
+          },
+          "aliases": [
+            "салат",
+            "морепродукти",
+            "морепродукты",
+            "кальмар",
+            "мідії",
+            "крабовые палочки",
+            "морковь по-корейски"
+          ]
+        },
+        {
+          "name": "Бриз",
+          "subblock": "Основний блок салатів",
+          "composition": "кальмар, мікс салату, овочі, кукурудза, яйце, соус.",
+          "weight": "250 г",
+          "price": "240 грн",
+          "photo_key": "salad_breeze",
+          "photo_status": "exact",
+          "photo_note": "Салат з кальмаром та овочами.",
+          "id": "dish-48",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Calamari%2C_chips_and_salad_in_Queensland%2C_Australia%2C_2025.jpg/960px-Calamari%2C_chips_and_salad_in_Queensland%2C_Australia%2C_2025.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Calamari%2C_chips_and_salad_in_Queensland%2C_Australia%2C_2025.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Calamari,_chips_and_salad_in_Queensland,_Australia,_2025.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Chris Olszewski",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Салат з кальмаром та овочами.",
+            "local_url": "assets/dishes/salad_breeze.jpg"
+          },
+          "aliases": [
+            "салат",
+            "бриз",
+            "морепродукти",
+            "кальмар",
+            "кукуруза"
+          ]
+        },
+        {
+          "name": "Гриль",
+          "subblock": "Основний блок салатів",
+          "composition": "куряче філе, бекон, листя салату, томат, соус.",
+          "weight": "250 г",
+          "price": "280 грн",
+          "photo_key": "salad_grill",
+          "photo_status": "exact",
+          "photo_note": "Теплий салат з куркою гриль, беконом і томатами.",
+          "id": "dish-49",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Camembert%2C_Chicken_%26_Bacon_Flat_Grill%2C_The_Coffee_Club_Carousel_WA%2C_2026_%2801%29.jpg/960px-Camembert%2C_Chicken_%26_Bacon_Flat_Grill%2C_The_Coffee_Club_Carousel_WA%2C_2026_%2801%29.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Camembert%2C_Chicken_%26_Bacon_Flat_Grill%2C_The_Coffee_Club_Carousel_WA%2C_2026_%2801%29.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Camembert,_Chicken_%26_Bacon_Flat_Grill,_The_Coffee_Club_Carousel_WA,_2026_(01).jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Bahnfrend",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Теплий салат з куркою гриль, беконом і томатами.",
+            "local_url": "assets/dishes/salad_grill.jpg"
+          },
+          "aliases": [
+            "салат",
+            "теплий салат",
+            "теплый салат",
+            "курка",
+            "курица",
+            "бекон",
+            "гриль"
+          ]
+        },
+        {
+          "name": "Від шефа",
+          "subblock": "Основний блок салатів",
+          "composition": "куряче філе, омлет, огірок, перець, соус.",
+          "weight": "250 г",
+          "price": "200 грн",
+          "photo_key": "salad_chef",
+          "photo_status": "flagged",
+          "photo_note": "Фірмова рецептура шефа (курка, омлет, свіжий огірок та перець). Позначено для індивідуальної зйомки.",
+          "id": "dish-50",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Liat_Portal_for_Foodie_Disorder_-_Quinoa%2C_Schnitzel_and_Israeli_Salad.jpg/960px-Liat_Portal_for_Foodie_Disorder_-_Quinoa%2C_Schnitzel_and_Israeli_Salad.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Liat_Portal_for_Foodie_Disorder_-_Quinoa%2C_Schnitzel_and_Israeli_Salad.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Quinoa,_Schnitzel_and_Israeli_Salad.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "HaJunkiyada",
+            "source": "Wikimedia Commons",
+            "match_status": "flagged",
+            "note": "Фірмова рецептура шефа (курка, омлет, свіжий огірок та перець). Позначено для індивідуальної зйомки.",
+            "local_url": "assets/dishes/salad_chef.jpg"
+          },
+          "aliases": [
+            "салат",
+            "от шефа",
+            "шеф",
+            "курка",
+            "курица",
+            "омлет"
+          ]
+        },
+        {
+          "name": "Цезар з куркою",
+          "subblock": "Основний блок салатів",
+          "composition": "куряче філе, салат, пармезан, соус цезар.",
+          "weight": "250 г",
+          "price": "245 грн",
+          "photo_key": "salad_caesar_chicken",
+          "photo_status": "exact",
+          "photo_note": "Класичний салат Цезар з куркою на світлій тарілці.",
+          "id": "dish-51",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Caesar_salad_with_chicken_-_Cambridge%2C_MA.jpg/960px-Caesar_salad_with_chicken_-_Cambridge%2C_MA.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Caesar_salad_with_chicken_-_Cambridge%2C_MA.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Caesar_salad_with_chicken_-_Cambridge,_MA.jpg",
+            "license": "CC0",
+            "artist": "Daderot",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Класичний салат Цезар з куркою на світлій тарілці.",
+            "local_url": "assets/dishes/salad_caesar_chicken.jpg"
+          },
+          "aliases": [
+            "салат",
+            "цезарь",
+            "цезар",
+            "курка",
+            "курица",
+            "пармезан"
+          ]
+        },
+        {
+          "name": "Цезар із лососем",
+          "subblock": "Основний блок салатів",
+          "composition": "лосось, салат, пармезан, соус цезар.",
+          "weight": "250 г",
+          "price": "290 грн",
+          "photo_key": "salad_caesar_salmon",
+          "photo_status": "exact",
+          "photo_note": "Салат Цезар із слабосоленим/гриль лососем.",
+          "id": "dish-52",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/GRILLED_SALMON_%26_CAESAR_SALAD_%2826607665093%29.jpg/960px-GRILLED_SALMON_%26_CAESAR_SALAD_%2826607665093%29.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/GRILLED_SALMON_%26_CAESAR_SALAD_%2826607665093%29.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:GRILLED_SALMON_%26_CAESAR_SALAD_(26607665093).jpg",
+            "license": "CC BY 2.0",
+            "artist": "Prayitno / Thank you for (12 millions +) view from Los Angeles, USA",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Салат Цезар із слабосоленим/гриль лососем.",
+            "local_url": "assets/dishes/salad_caesar_salmon.jpg"
+          },
+          "aliases": [
+            "салат",
+            "цезарь",
+            "цезар",
+            "лосось",
+            "сьомга",
+            "семга",
+            "червона риба",
+            "красная рыба"
+          ]
+        },
+        {
+          "name": "Батумі",
+          "subblock": "Основний блок салатів",
+          "composition": "яловичина, морква, овочі, спеціальний соус.",
+          "weight": "250 г",
+          "price": "250 грн",
+          "photo_key": "salad_batumi",
+          "photo_status": "flagged",
+          "photo_note": "Локальний салат з яловичиною та овочами. Підібрано м'ясний овочевий салат за складом.",
+          "id": "dish-53",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/A_plate_of_beef_and_chips_at_a_restaurant_in_Palapye.jpg/960px-A_plate_of_beef_and_chips_at_a_restaurant_in_Palapye.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/A_plate_of_beef_and_chips_at_a_restaurant_in_Palapye.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:A_plate_of_beef_and_chips_at_a_restaurant_in_Palapye.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Olgatladi2020",
+            "source": "Wikimedia Commons",
+            "match_status": "flagged",
+            "note": "Локальний салат з яловичиною та овочами. Підібрано м'ясний овочевий салат за складом.",
+            "local_url": "assets/dishes/salad_batumi.jpg"
+          },
+          "aliases": [
+            "салат",
+            "батуми",
+            "яловичина",
+            "говядина",
+            "телятина",
+            "м'ясний",
+            "мясной"
+          ]
+        },
+        {
+          "name": "Салат з яловичим язиком",
+          "subblock": "Основний блок салатів",
+          "composition": "яловичий язик, овочі, майонез.",
+          "weight": "250 г",
+          "price": "250 грн",
+          "photo_key": "salad_tongue",
+          "photo_status": "exact",
+          "photo_note": "Салат з відварним яловичим язиком та овочами.",
+          "id": "dish-54",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Marbling_-_Wagyu_Yakiniku_Rolls_-_Shira_Nui_AUD24_for_6_%284734585163%29.jpg/960px-Marbling_-_Wagyu_Yakiniku_Rolls_-_Shira_Nui_AUD24_for_6_%284734585163%29.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Marbling_-_Wagyu_Yakiniku_Rolls_-_Shira_Nui_AUD24_for_6_%284734585163%29.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Marbling_-_Wagyu_Yakiniku_Rolls_-_Shira_Nui_AUD24_for_6_(4734585163).jpg",
+            "license": "CC BY-SA 2.0",
+            "artist": "Alpha from Melbourne, Australia",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Салат з відварним яловичим язиком та овочами.",
+            "local_url": "assets/dishes/salad_tongue.jpg"
+          },
+          "aliases": [
+            "салат",
+            "язик",
+            "язык",
+            "яловичий",
+            "говяжий",
+            "м'ясний"
+          ]
+        },
+        {
+          "name": "Свеча",
+          "subblock": "Основний блок салатів",
+          "composition": "куряче філе, яйце, свіжі овочі, майонез.",
+          "weight": "250 г",
+          "price": "200 грн",
+          "photo_key": "salad_svecha",
+          "photo_status": "flagged",
+          "photo_note": "Авторський листковий салат «Свеча» (курка, яйце, овочі). Потребує реального фото з кухні кафе.",
+          "id": "dish-55",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Bulgarian_Easter_table_Tavola_di_Pasqua_Bulgara_2010_%281%29.jpg/960px-Bulgarian_Easter_table_Tavola_di_Pasqua_Bulgara_2010_%281%29.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bulgarian_Easter_table_Tavola_di_Pasqua_Bulgara_2010_%281%29.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Bulgarian_Easter_table_Tavola_di_Pasqua_Bulgara_2010_(1).jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "EvelinaRibarova",
+            "source": "Wikimedia Commons",
+            "match_status": "flagged",
+            "note": "Авторський листковий салат «Свеча» (курка, яйце, овочі). Потребує реального фото з кухні кафе.",
+            "local_url": "assets/dishes/salad_svecha.jpg"
+          },
+          "aliases": [
+            "салат",
+            "свічка",
+            "свеча",
+            "курка",
+            "курица",
+            "майонез"
+          ]
+        },
+        {
+          "name": "Ніжність",
+          "subblock": "Основний блок салатів",
+          "composition": "курка, овочі, м'який соус.",
+          "weight": "250 г",
+          "price": "200 грн",
+          "photo_key": "salad_tenderness",
+          "photo_status": "flagged",
+          "photo_note": "Салат «Ніжність» із куркою та овочами; відмічено як позицію з локальною подачею.",
+          "id": "dish-56",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Aussie_Cheese_Fries%2C_Chicken_Tortilla_Soup%2C_House_Salad%2C_Outback_Steakhouse.jpg/960px-Aussie_Cheese_Fries%2C_Chicken_Tortilla_Soup%2C_House_Salad%2C_Outback_Steakhouse.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Aussie_Cheese_Fries%2C_Chicken_Tortilla_Soup%2C_House_Salad%2C_Outback_Steakhouse.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Aussie_Cheese_Fries,_Chicken_Tortilla_Soup,_House_Salad,_Outback_Steakhouse.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Michael Rivera",
+            "source": "Wikimedia Commons",
+            "match_status": "flagged",
+            "note": "Салат «Ніжність» із куркою та овочами; відмічено як позицію з локальною подачею.",
+            "local_url": "assets/dishes/salad_tenderness.jpg"
+          },
+          "aliases": [
+            "салат",
+            "нежность",
+            "ніжність",
+            "курка",
+            "курица"
+          ]
+        },
+        {
+          "name": "Афіни",
+          "subblock": "Основний блок салатів",
+          "composition": "куряче філе, сир, овочі, майонез.",
+          "weight": "250 г",
+          "price": "200 грн",
+          "photo_key": "salad_athens",
+          "photo_status": "flagged",
+          "photo_note": "Салат «Афіни» (курка, сир, овочі, майонез) — відзначено для фотосесії закладу.",
+          "id": "dish-57",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Chef_Salad.JPG/960px-Chef_Salad.JPG",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Chef_Salad.JPG",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Chef_Salad.JPG",
+            "license": "Public domain",
+            "artist": "Gesalbte",
+            "source": "Wikimedia Commons",
+            "match_status": "flagged",
+            "note": "Салат «Афіни» (курка, сир, овочі, майонез) — відзначено для фотосесії закладу.",
+            "local_url": "assets/dishes/salad_athens.jpg"
+          },
+          "aliases": [
+            "салат",
+            "афины",
+            "курка",
+            "курица",
+            "сир",
+            "сыр"
+          ]
+        },
+        {
+          "name": "Анасовий",
+          "subblock": "Альтернативний блок салатів",
+          "composition": null,
+          "weight": "250 г",
+          "price": "200 грн",
+          "photo_key": "salad_pineapple",
+          "photo_status": "exact",
+          "photo_note": "Збережено оригінальне написання з файлу («Анасовий»). Салат з ананасом та куркою.",
+          "id": "dish-58",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Big_Chicken_Salad_and_Pineapple_Juice_Campeche_Feb_2020.jpg/960px-Big_Chicken_Salad_and_Pineapple_Juice_Campeche_Feb_2020.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Big_Chicken_Salad_and_Pineapple_Juice_Campeche_Feb_2020.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Big_Chicken_Salad_and_Pineapple_Juice_Campeche_Feb_2020.jpg",
+            "license": "CC BY-SA 2.0",
+            "artist": "Bernard DUPONT",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Збережено оригінальне написання з файлу («Анасовий»). Салат з ананасом та куркою.",
+            "local_url": "assets/dishes/salad_pineapple.jpg"
+          },
+          "aliases": [
+            "салат",
+            "ананасовий",
+            "ананасовый",
+            "ананас",
+            "курка",
+            "курица"
+          ]
+        },
+        {
+          "name": "Київлянка",
+          "subblock": "Альтернативний блок салатів",
+          "composition": null,
+          "weight": "250 г",
+          "price": "200 грн",
+          "photo_key": "salad_kyiv",
+          "photo_status": "flagged",
+          "photo_note": "У вихідному меню склад не розписаний; відзначено окремо, щоб не підміняти випадковим фото.",
+          "id": "dish-59",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Salad_in_Kolomyia%2C_Ukraine%2C_2022.jpg/960px-Salad_in_Kolomyia%2C_Ukraine%2C_2022.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Salad_in_Kolomyia%2C_Ukraine%2C_2022.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Salad_in_Kolomyia,_Ukraine,_2022.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Anna Korcheva",
+            "source": "Wikimedia Commons",
+            "match_status": "flagged",
+            "note": "У вихідному меню склад не розписаний; відзначено окремо, щоб не підміняти випадковим фото.",
+            "local_url": "assets/dishes/salad_kyiv.jpg"
+          },
+          "aliases": [
+            "салат",
+            "киевлянка",
+            "київлянка",
+            "український"
+          ]
+        },
+        {
+          "name": "Грецький",
+          "subblock": "Альтернативний блок салатів",
+          "composition": null,
+          "weight": "250 г",
+          "price": "220 грн",
+          "photo_key": "salad_greek",
+          "photo_status": "exact",
+          "photo_note": "Класичний Грецький салат на білій керамічній тарілці.",
+          "id": "dish-60",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Greece_Food_Horiatiki.JPG/960px-Greece_Food_Horiatiki.JPG",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Greece_Food_Horiatiki.JPG",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Greece_Food_Horiatiki.JPG",
+            "license": "CC BY-SA 4.0",
+            "artist": "User:Jpatokal",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Класичний Грецький салат на білій керамічній тарілці.",
+            "local_url": "assets/dishes/salad_greek.jpg"
+          },
+          "aliases": [
+            "салат",
+            "греческий",
+            "фета",
+            "бринза",
+            "овочевий",
+            "овощной",
+            "оливки"
+          ]
+        },
+        {
+          "name": "Овочевий",
+          "subblock": "Альтернативний блок салатів",
+          "composition": null,
+          "weight": "250 г",
+          "price": "180 грн",
+          "photo_key": "salad_vegetable",
+          "photo_status": "exact",
+          "photo_note": "Свіжий овочевий салат (томати, огірки, зелень).",
+          "id": "dish-61",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/DFC_1491_Zesty_Thai_glass_noodle_salad_topped_with_plump_shrimp_fresh_tomatoes_cucumber_slices_and_cilantro.jpg/960px-DFC_1491_Zesty_Thai_glass_noodle_salad_topped_with_plump_shrimp_fresh_tomatoes_cucumber_slices_and_cilantro.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/DFC_1491_Zesty_Thai_glass_noodle_salad_topped_with_plump_shrimp_fresh_tomatoes_cucumber_slices_and_cilantro.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:DFC_1491_Zesty_Thai_glass_noodle_salad_topped_with_plump_shrimp_fresh_tomatoes_cucumber_slices_and_cilantro.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "PattayaPatrol",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Свіжий овочевий салат (томати, огірки, зелень).",
+            "local_url": "assets/dishes/salad_vegetable.jpg"
+          },
+          "aliases": [
+            "салат",
+            "овощной",
+            "свіжі овочі",
+            "свежие овощи",
+            "помідори",
+            "огірки",
+            "помидоры",
+            "огурцы",
+            "літній"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cold-appetizers",
+      "name": "Холодні закуски",
+      "original_header": "ХОЛОДНІ ЗАКУСКИ",
+      "is_duplicate_without_weight": false,
+      "note": null,
+      "items": [
+        {
+          "name": "Сирне асорті",
+          "composition": null,
+          "weight": "200 г",
+          "price": "320 грн",
+          "photo_key": "cold_cheese",
+          "photo_status": "exact",
+          "photo_note": "Сирна тарілка.",
+          "id": "dish-62",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Cheese_Platter_%2814362170692%29.jpg/960px-Cheese_Platter_%2814362170692%29.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Cheese_Platter_%2814362170692%29.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Cheese_Platter_(14362170692).jpg",
+            "license": "CC BY 2.0",
+            "artist": "Daniela",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Сирна тарілка.",
+            "local_url": "assets/dishes/cold_cheese.jpg"
+          },
+          "aliases": [
+            "закуска",
+            "сырная нарезка",
+            "сырное плато",
+            "сирна тарілка",
+            "сир",
+            "сыр"
+          ]
+        },
+        {
+          "name": "Рибне асорті",
+          "composition": null,
+          "weight": "200 г",
+          "price": "330 грн",
+          "photo_key": "cold_fish",
+          "photo_status": "exact",
+          "photo_note": "Асорті рибних делікатесів.",
+          "id": "dish-63",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Brigtsen%27s_seafood_platter_%28aka_the_%22Shell_Beach_Diet%22%29.jpg/960px-Brigtsen%27s_seafood_platter_%28aka_the_%22Shell_Beach_Diet%22%29.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Brigtsen%27s_seafood_platter_%28aka_the_%22Shell_Beach_Diet%22%29.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Brigtsen%27s_seafood_platter_(aka_the_%22Shell_Beach_Diet%22).jpg",
+            "license": "CC BY 2.0",
+            "artist": "Neeta Lind",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Асорті рибних делікатесів.",
+            "local_url": "assets/dishes/cold_fish.jpg"
+          },
+          "aliases": [
+            "закуска",
+            "рыбная нарезка",
+            "рибна тарілка",
+            "риба",
+            "рыба"
+          ]
+        },
+        {
+          "name": "М'ясне асорті",
+          "composition": null,
+          "weight": "200 г",
+          "price": "260 грн",
+          "photo_key": "cold_meat",
+          "photo_status": "exact",
+          "photo_note": "М'ясна нарізка на тарілці.",
+          "id": "dish-64",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Continental_Meat_Platter.JPG/960px-Continental_Meat_Platter.JPG",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Continental_Meat_Platter.JPG",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Continental_Meat_Platter.JPG",
+            "license": "CC BY-SA 3.0",
+            "artist": "Phoenixcatering",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "М'ясна нарізка на тарілці.",
+            "local_url": "assets/dishes/cold_meat.jpg"
+          },
+          "aliases": [
+            "закуска",
+            "мясная нарезка",
+            "м'ясна тарілка",
+            "ковбаса",
+            "колбаса",
+            "буженина",
+            "м'ясо"
+          ]
+        },
+        {
+          "name": "М'ясне асорті в'ялене",
+          "composition": null,
+          "weight": "150 г",
+          "price": "240 грн",
+          "photo_key": "cold_dried_meat",
+          "photo_status": "exact",
+          "photo_note": "В'ялене м'ясо (бастурма / суджук).",
+          "id": "dish-65",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Iraqi_Pastirma-Mosul_02.jpg/960px-Iraqi_Pastirma-Mosul_02.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Iraqi_Pastirma-Mosul_02.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Iraqi_Pastirma-Mosul_02.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Abdulsalam Al Dabbagh",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "В'ялене м'ясо (бастурма / суджук).",
+            "local_url": "assets/dishes/cold_dried_meat.jpg"
+          },
+          "aliases": [
+            "закуска",
+            "вяленое мясо",
+            "бастурма",
+            "суджук",
+            "нарізка",
+            "нарезка"
+          ]
+        },
+        {
+          "name": "Соління осіннє велике",
+          "composition": null,
+          "weight": "200 г",
+          "price": "180 грн",
+          "photo_key": "cold_pickles_large",
+          "photo_status": "exact",
+          "photo_note": "Велике асорті домашніх солінь.",
+          "id": "dish-66",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Coast_watch_%281979%29_%2820472133650%29.jpg/960px-Coast_watch_%281979%29_%2820472133650%29.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Coast_watch_%281979%29_%2820472133650%29.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Coast_watch_(1979)_(20472133650).jpg",
+            "license": "No restrictions",
+            "artist": "Internet Archive Book Images",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Велике асорті домашніх солінь.",
+            "local_url": "assets/dishes/cold_pickles_large.jpg"
+          },
+          "aliases": [
+            "закуска",
+            "соленья",
+            "соління",
+            "мариновані овочі",
+            "квашені",
+            "огірки",
+            "помідори"
+          ]
+        },
+        {
+          "name": "Соління маленьке",
+          "composition": null,
+          "weight": "200 г",
+          "price": "120 грн",
+          "photo_key": "cold_pickles_small",
+          "photo_status": "exact",
+          "photo_note": "Мала порція домашніх солінь.",
+          "id": "dish-67",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Liat_Portal_for_Foodie_Disorder_-_Crackers%2C_fruit%2C_nuts%2C_and_cheeses_plate.jpg/960px-Liat_Portal_for_Foodie_Disorder_-_Crackers%2C_fruit%2C_nuts%2C_and_cheeses_plate.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Liat_Portal_for_Foodie_Disorder_-_Crackers%2C_fruit%2C_nuts%2C_and_cheeses_plate.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Crackers,_fruit,_nuts,_and_cheeses_plate.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "HaJunkiyada",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Мала порція домашніх солінь.",
+            "local_url": "assets/dishes/cold_pickles_small.jpg"
+          },
+          "aliases": [
+            "закуска",
+            "соленья",
+            "соління",
+            "мариновані овочі",
+            "огірки",
+            "помідори"
+          ]
+        },
+        {
+          "name": "Бринза болгарська",
+          "composition": null,
+          "weight": "120 г",
+          "price": "120 грн",
+          "photo_key": "cold_brynza_bulg",
+          "photo_status": "exact",
+          "photo_note": "Нарізка розсільного сиру / бринзи.",
+          "id": "dish-68",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Breakfast_tacos.jpg/960px-Breakfast_tacos.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Breakfast_tacos.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Breakfast_tacos.jpg",
+            "license": "CC BY-SA 2.0",
+            "artist": "ryan kuonen from Williamsburg, Brooklyn, NYC, USA",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Нарізка розсільного сиру / бринзи.",
+            "local_url": "assets/dishes/cold_brynza_bulg.jpg"
+          },
+          "aliases": [
+            "закуска",
+            "брынза",
+            "сир",
+            "сыр",
+            "фета"
+          ]
+        },
+        {
+          "name": "Бринза домашня",
+          "composition": null,
+          "weight": "120 г",
+          "price": "150 грн",
+          "photo_key": "cold_brynza_home",
+          "photo_status": "exact",
+          "photo_note": "Домашня бринза на світлій тарілці.",
+          "id": "dish-69",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/00901_Beskider_Bryndza-K%C3%A4se_mit_Kuchengew%C3%BCrze.JPG/960px-00901_Beskider_Bryndza-K%C3%A4se_mit_Kuchengew%C3%BCrze.JPG",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/00901_Beskider_Bryndza-K%C3%A4se_mit_Kuchengew%C3%BCrze.JPG",
+            "page_url": "https://commons.wikimedia.org/wiki/File:00901_Beskider_Bryndza-K%C3%A4se_mit_Kuchengew%C3%BCrze.JPG",
+            "license": "CC BY-SA 4.0",
+            "artist": "Silar",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Домашня бринза на світлій тарілці.",
+            "local_url": "assets/dishes/cold_brynza_home.jpg"
+          },
+          "aliases": [
+            "закуска",
+            "брынза домашняя",
+            "сир",
+            "сыр"
+          ]
+        },
+        {
+          "name": "Асорті овочеве",
+          "composition": null,
+          "weight": "300 г",
+          "price": "160 грн",
+          "photo_key": "cold_veg_platter",
+          "photo_status": "exact",
+          "photo_note": "Нарізка свіжих овочів та зелені.",
+          "id": "dish-70",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Cucumber_lettuce_tomato_and_onion_salad.jpg/960px-Cucumber_lettuce_tomato_and_onion_salad.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Cucumber_lettuce_tomato_and_onion_salad.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Cucumber_lettuce_tomato_and_onion_salad.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Mathobelah",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Нарізка свіжих овочів та зелені.",
+            "local_url": "assets/dishes/cold_veg_platter.jpg"
+          },
+          "aliases": [
+            "закуска",
+            "овощная нарезка",
+            "овочева тарілка",
+            "свіжі овочі",
+            "зелень",
+            "помідори",
+            "огірки"
+          ]
+        },
+        {
+          "name": "Оселедець під горілку",
+          "composition": null,
+          "weight": "150 г",
+          "price": "155 грн",
+          "photo_key": "cold_herring",
+          "photo_status": "exact",
+          "photo_note": "Філе оселедця з цибулею.",
+          "id": "dish-71",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Soused_herring%2C_served_with_potato_salad_2.jpg/960px-Soused_herring%2C_served_with_potato_salad_2.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Soused_herring%2C_served_with_potato_salad_2.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Soused_herring,_served_with_potato_salad_2.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "W.carter",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Філе оселедця з цибулею.",
+            "local_url": "assets/dishes/cold_herring.jpg"
+          },
+          "aliases": [
+            "закуска",
+            "селедка",
+            "сельодка",
+            "оселедець",
+            "риба",
+            "рыба",
+            "під горілку"
+          ]
+        },
+        {
+          "name": "Капуста квашена домашня",
+          "composition": null,
+          "weight": "100 г",
+          "price": "50 грн",
+          "photo_key": "cold_sauerkraut",
+          "photo_status": "exact",
+          "photo_note": "Домашня квашена капуста.",
+          "id": "dish-72",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/02021_0635_%282%29_Sauerkraut_with_salmon.jpg/960px-02021_0635_%282%29_Sauerkraut_with_salmon.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/02021_0635_%282%29_Sauerkraut_with_salmon.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:02021_0635_(2)_Sauerkraut_with_salmon.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Silar",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Домашня квашена капуста.",
+            "local_url": "assets/dishes/cold_sauerkraut.jpg"
+          },
+          "aliases": [
+            "закуска",
+            "квашеная капуста",
+            "соління",
+            "капуста"
+          ]
+        },
+        {
+          "name": "Морква по-корейські",
+          "composition": null,
+          "weight": "100 г",
+          "price": "50 грн",
+          "photo_key": "cold_korean_carrot",
+          "photo_status": "exact",
+          "photo_note": "Пікантна морква по-корейськи (збережено оригінальне написання з меню).",
+          "id": "dish-73",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Corean_carrot_salad.jpg/960px-Corean_carrot_salad.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Corean_carrot_salad.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Corean_carrot_salad.jpg",
+            "license": "CC0",
+            "artist": "Kf8",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Пікантна морква по-корейськи (збережено оригінальне написання з меню).",
+            "local_url": "assets/dishes/cold_korean_carrot.jpg"
+          },
+          "aliases": [
+            "закуска",
+            "морковь по-корейски",
+            "корейська морква",
+            "морковча"
+          ]
+        },
+        {
+          "name": "Маслини",
+          "composition": null,
+          "weight": "100 г",
+          "price": "125 грн",
+          "photo_key": "cold_black_olives",
+          "photo_status": "exact",
+          "photo_note": "Чорні маслини у піалі.",
+          "id": "dish-74",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/2019-11-28_14_33_54_A_bowl_of_olives_laid_out_for_Thanksgiving_Dinner_in_the_Parkway_Village_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/960px-2019-11-28_14_33_54_A_bowl_of_olives_laid_out_for_Thanksgiving_Dinner_in_the_Parkway_Village_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/2019-11-28_14_33_54_A_bowl_of_olives_laid_out_for_Thanksgiving_Dinner_in_the_Parkway_Village_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:2019-11-28_14_33_54_A_bowl_of_olives_laid_out_for_Thanksgiving_Dinner_in_the_Parkway_Village_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Famartin",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Чорні маслини у піалі.",
+            "local_url": "assets/dishes/cold_black_olives.jpg"
+          },
+          "aliases": [
+            "закуска",
+            "маслины",
+            "оливки чорні"
+          ]
+        },
+        {
+          "name": "Оливки",
+          "composition": null,
+          "weight": "100 г",
+          "price": "125 грн",
+          "photo_key": "cold_green_olives",
+          "photo_status": "exact",
+          "photo_note": "Зелені оливки у піалі.",
+          "id": "dish-75",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Fresh_green_olives_and_black_olives_served_at_a_food_display.jpg/960px-Fresh_green_olives_and_black_olives_served_at_a_food_display.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Fresh_green_olives_and_black_olives_served_at_a_food_display.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Fresh_green_olives_and_black_olives_served_at_a_food_display.jpg",
+            "license": "CC BY 2.0",
+            "artist": "Shixart1985",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Зелені оливки у піалі.",
+            "local_url": "assets/dishes/cold_green_olives.jpg"
+          },
+          "aliases": [
+            "закуска",
+            "оливки зеленые",
+            "маслини"
+          ]
+        },
+        {
+          "name": "Гриби мариновані",
+          "composition": null,
+          "weight": "100 г",
+          "price": "125 грн",
+          "photo_key": "cold_marinated_mushrooms",
+          "photo_status": "exact",
+          "photo_note": "Мариновані гриби.",
+          "id": "dish-76",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Pickled_mushrooms....jpg/960px-Pickled_mushrooms....jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Pickled_mushrooms....jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Pickled_mushrooms....jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Mariuszjbie",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Мариновані гриби.",
+            "local_url": "assets/dishes/cold_marinated_mushrooms.jpg"
+          },
+          "aliases": [
+            "закуска",
+            "маринованные грибы",
+            "грибочки",
+            "печериці",
+            "шампиньоны"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "side-dishes",
+      "name": "Гарніри",
+      "original_header": "ГАРНІРИ",
+      "is_duplicate_without_weight": false,
+      "note": null,
+      "items": [
+        {
+          "name": "Картопля по-хутарянськи",
+          "composition": null,
+          "weight": "250 г",
+          "price": "130 грн",
+          "photo_key": "side_potato_country",
+          "photo_status": "exact",
+          "photo_note": "Обсмажена картопля по-хуторянськи з цибулею.",
+          "id": "dish-77",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Fried_potatoes_and_onions%2C_corn%2C_and_chicken_breast_-_Massachusetts.jpg/960px-Fried_potatoes_and_onions%2C_corn%2C_and_chicken_breast_-_Massachusetts.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Fried_potatoes_and_onions%2C_corn%2C_and_chicken_breast_-_Massachusetts.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Fried_potatoes_and_onions,_corn,_and_chicken_breast_-_Massachusetts.jpg",
+            "license": "CC0",
+            "artist": "Daderot",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Обсмажена картопля по-хуторянськи з цибулею.",
+            "local_url": "assets/dishes/side_potato_country.jpg"
+          },
+          "aliases": [
+            "гарнір",
+            "гарнир",
+            "картошка",
+            "смажена картопля",
+            "жареная картошка",
+            "по-хуторянськи"
+          ]
+        },
+        {
+          "name": "Картопля по-селянськи",
+          "composition": null,
+          "weight": "250 г",
+          "price": "110 грн",
+          "photo_key": "side_potato_rustic",
+          "photo_status": "exact",
+          "photo_note": "Золотисті скибочки картоплі по-селянськи.",
+          "id": "dish-78",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/20260916_Minsk_Vasilki_Burger.jpg/960px-20260916_Minsk_Vasilki_Burger.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/20260916_Minsk_Vasilki_Burger.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:20260916_Minsk_Vasilki_Burger.jpg",
+            "license": "CC BY 4.0",
+            "artist": "Sergey A. Demidov",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Золотисті скибочки картоплі по-селянськи.",
+            "local_url": "assets/dishes/side_potato_rustic.jpg"
+          },
+          "aliases": [
+            "гарнір",
+            "гарнир",
+            "картошка по-селянски",
+            "по-деревенски",
+            "печена картопля"
+          ]
+        },
+        {
+          "name": "Картопляне пюре",
+          "composition": null,
+          "weight": "200 г",
+          "price": "85 грн",
+          "photo_key": "side_mashed_potato",
+          "photo_status": "exact",
+          "photo_note": "Ніжне картопляне пюре.",
+          "id": "dish-79",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Beef%2C_avocado%2C_carrots%2C_mashed_potatoes%2C_and_sauted_celery_-_Massachusetts.jpg/960px-Beef%2C_avocado%2C_carrots%2C_mashed_potatoes%2C_and_sauted_celery_-_Massachusetts.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Beef%2C_avocado%2C_carrots%2C_mashed_potatoes%2C_and_sauted_celery_-_Massachusetts.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Beef,_avocado,_carrots,_mashed_potatoes,_and_sauted_celery_-_Massachusetts.jpg",
+            "license": "CC0",
+            "artist": "Daderot",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Ніжне картопляне пюре.",
+            "local_url": "assets/dishes/side_mashed_potato.jpg"
+          },
+          "aliases": [
+            "гарнір",
+            "гарнир",
+            "пюрешка",
+            "картошка пюре",
+            "товчена картопля"
+          ]
+        },
+        {
+          "name": "Картопля «Фрі»",
+          "composition": null,
+          "weight": "200 г",
+          "price": "90 грн",
+          "photo_key": "side_fries",
+          "photo_status": "exact",
+          "photo_note": "Хрустка картопля фрі на білій тарілці.",
+          "id": "dish-80",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/French_fries_3.jpg/960px-French_fries_3.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/French_fries_3.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:French_fries_3.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Sri2161k",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Хрустка картопля фрі на білій тарілці.",
+            "local_url": "assets/dishes/side_fries.jpg"
+          },
+          "aliases": [
+            "гарнір",
+            "гарнир",
+            "картошка фри",
+            "фрі",
+            "фастфуд"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sandwiches",
+      "name": "Бутерброди",
+      "original_header": "БУТЕРБРОДИ",
+      "is_duplicate_without_weight": false,
+      "note": "У оригінальному меню до цієї категорії також включені дві позиції дерунів.",
+      "items": [
+        {
+          "name": "Бутерброд з ковбасою і сиром",
+          "composition": null,
+          "weight": "70 г",
+          "price": "70 грн",
+          "photo_key": "sand_sausage",
+          "photo_status": "exact",
+          "photo_note": "Бутерброд із ковбасою та сиром.",
+          "id": "dish-81",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Ready_Sausage_Egg_%26_Cheese_Bagel_Sandwich_%2816553253271%29.jpg/960px-Ready_Sausage_Egg_%26_Cheese_Bagel_Sandwich_%2816553253271%29.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ready_Sausage_Egg_%26_Cheese_Bagel_Sandwich_%2816553253271%29.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Ready_Sausage_Egg_%26_Cheese_Bagel_Sandwich_(16553253271).jpg",
+            "license": "CC BY-SA 2.0",
+            "artist": "Willis Lam",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Бутерброд із ковбасою та сиром.",
+            "local_url": "assets/dishes/sand_sausage.jpg"
+          },
+          "aliases": [
+            "бутерброд",
+            "сендвіч",
+            "сэндвич",
+            "тост",
+            "колбаса",
+            "сыр",
+            "сніданок"
+          ]
+        },
+        {
+          "name": "Бутерброд з шинкою і сиром",
+          "composition": null,
+          "weight": "85 г",
+          "price": "90 грн",
+          "photo_key": "sand_ham",
+          "photo_status": "exact",
+          "photo_note": "Бутерброд із шинкою та твердим сиром.",
+          "id": "dish-82",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Brie_%26_Ham_Sandwich_at_St_James_Cheese%2C_New_Orleans%2C_2009.jpg/960px-Brie_%26_Ham_Sandwich_at_St_James_Cheese%2C_New_Orleans%2C_2009.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Brie_%26_Ham_Sandwich_at_St_James_Cheese%2C_New_Orleans%2C_2009.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Brie_%26_Ham_Sandwich_at_St_James_Cheese,_New_Orleans,_2009.jpg",
+            "license": "CC BY-SA 3.0",
+            "artist": "Infrogmation of New Orleans",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Бутерброд із шинкою та твердим сиром.",
+            "local_url": "assets/dishes/sand_ham.jpg"
+          },
+          "aliases": [
+            "бутерброд",
+            "сендвіч",
+            "сэндвич",
+            "тост",
+            "ветчина",
+            "шинка",
+            "сыр"
+          ]
+        },
+        {
+          "name": "Гарячий бутерброд з ковбасою і сиром",
+          "composition": null,
+          "weight": "100 г",
+          "price": "120 грн",
+          "photo_key": "sand_hot_sausage",
+          "photo_status": "exact",
+          "photo_note": "Запечений гарячий бутерброд з розплавленим сиром.",
+          "id": "dish-83",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/20240810_Simit_Toast_Restaurant_La_Femme_Berlin_anagoria.jpg/960px-20240810_Simit_Toast_Restaurant_La_Femme_Berlin_anagoria.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/20240810_Simit_Toast_Restaurant_La_Femme_Berlin_anagoria.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:20240810_Simit_Toast_Restaurant_La_Femme_Berlin_anagoria.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Anagoria",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Запечений гарячий бутерброд з розплавленим сиром.",
+            "local_url": "assets/dishes/sand_hot_sausage.jpg"
+          },
+          "aliases": [
+            "гарячий бутерброд",
+            "горячий бутерброд",
+            "сендвіч",
+            "тост",
+            "колбаса",
+            "сыр"
+          ]
+        },
+        {
+          "name": "Гарячий бутерброд з шинкою і сиром",
+          "composition": null,
+          "weight": "115 г",
+          "price": "120 грн",
+          "photo_key": "sand_hot_ham",
+          "photo_status": "exact",
+          "photo_note": "Гарячий тост-бутерброд з шинкою і сиром.",
+          "id": "dish-84",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Hot_ham_and_cheese_sandwich.jpg/960px-Hot_ham_and_cheese_sandwich.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Hot_ham_and_cheese_sandwich.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Hot_ham_and_cheese_sandwich.jpg",
+            "license": "CC BY 2.0",
+            "artist": "jeffreyw",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Гарячий тост-бутерброд з шинкою і сиром.",
+            "local_url": "assets/dishes/sand_hot_ham.jpg"
+          },
+          "aliases": [
+            "гарячий бутерброд",
+            "горячий бутерброд",
+            "сендвіч",
+            "тост",
+            "ветчина",
+            "шинка",
+            "сыр"
+          ]
+        },
+        {
+          "name": "Деруни зі сметаною",
+          "composition": null,
+          "weight": "180/50 г",
+          "price": "150 грн",
+          "photo_key": "deruny_sour_cream",
+          "photo_status": "exact",
+          "photo_note": "Традиційні українські деруни зі сметаною.",
+          "id": "dish-85",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/020260516_141010_Potato_pancakes_with_meat_goulash.jpg/960px-020260516_141010_Potato_pancakes_with_meat_goulash.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/020260516_141010_Potato_pancakes_with_meat_goulash.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:020260516_141010_Potato_pancakes_with_meat_goulash.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Auctor quaerendae",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Традиційні українські деруни зі сметаною.",
+            "local_url": "assets/dishes/deruny_sour_cream.jpg"
+          },
+          "aliases": [
+            "деруны",
+            "драники",
+            "драніки",
+            "тертюхи",
+            "картопляники",
+            "картофельные оладьи",
+            "сметана",
+            "українська кухня"
+          ]
+        },
+        {
+          "name": "Деруни з грибами і вершками",
+          "composition": null,
+          "weight": "180/50 г",
+          "price": "150 грн",
+          "photo_key": "deruny_mushrooms",
+          "photo_status": "exact",
+          "photo_note": "Деруни під вершково-грибним соусом.",
+          "id": "dish-86",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/20260915_Hilton_Minsk_breakfast_%2865924%29.jpg/960px-20260915_Hilton_Minsk_breakfast_%2865924%29.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/20260915_Hilton_Minsk_breakfast_%2865924%29.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:20260915_Hilton_Minsk_breakfast_(65924).jpg",
+            "license": "CC BY 4.0",
+            "artist": "Sergey A. Demidov",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Деруни під вершково-грибним соусом.",
+            "local_url": "assets/dishes/deruny_mushrooms.jpg"
+          },
+          "aliases": [
+            "деруны",
+            "драники",
+            "драніки",
+            "тертюхи",
+            "картофельные оладьи",
+            "грибы",
+            "вершки",
+            "сливки",
+            "українська кухня"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appetizers-eggs",
+      "name": "Закуски",
+      "original_header": "ЗАКУСКИ",
+      "is_duplicate_without_weight": false,
+      "note": "У вихідному меню для цієї категорії вага порції не вказана.",
+      "items": [
+        {
+          "name": "Яєчня з трьох яєць",
+          "composition": null,
+          "weight": "—",
+          "price": "120 грн",
+          "photo_key": "eggs_three",
+          "photo_status": "exact",
+          "photo_note": "Класична яєчня з 3 яєць на білій тарілці.",
+          "id": "dish-87",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/2022-04-08_19_21_15_Two_sunny-side_up_eggs_on_a_plate_in_the_Franklin_Farm_section_of_Oak_Hill%2C_Fairfax_County%2C_Virginia.jpg/960px-2022-04-08_19_21_15_Two_sunny-side_up_eggs_on_a_plate_in_the_Franklin_Farm_section_of_Oak_Hill%2C_Fairfax_County%2C_Virginia.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/2022-04-08_19_21_15_Two_sunny-side_up_eggs_on_a_plate_in_the_Franklin_Farm_section_of_Oak_Hill%2C_Fairfax_County%2C_Virginia.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:2022-04-08_19_21_15_Two_sunny-side_up_eggs_on_a_plate_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Famartin",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Класична яєчня з 3 яєць на білій тарілці.",
+            "local_url": "assets/dishes/eggs_three.jpg"
+          },
+          "aliases": [
+            "яичница",
+            "яєшня",
+            "глазунья",
+            "омлет",
+            "сніданок",
+            "завтрак",
+            "яйця",
+            "яйца"
+          ]
+        },
+        {
+          "name": "Яєчня з помідорами і в'яленою ковбасою",
+          "composition": null,
+          "weight": "—",
+          "price": "170 грн",
+          "photo_key": "eggs_tomato_sausage",
+          "photo_status": "exact",
+          "photo_note": "Яєчня з томатами та ковбасою (у східному стилі).",
+          "id": "dish-88",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Bacon_egg_sausage_beans_tomatoes_at_Starmugs_Cafe_on_Lordship_Lane_Tottenham_London_England.jpg/960px-Bacon_egg_sausage_beans_tomatoes_at_Starmugs_Cafe_on_Lordship_Lane_Tottenham_London_England.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bacon_egg_sausage_beans_tomatoes_at_Starmugs_Cafe_on_Lordship_Lane_Tottenham_London_England.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Bacon_egg_sausage_beans_tomatoes_at_Starmugs_Cafe_on_Lordship_Lane_Tottenham_London_England.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Acabashi",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Яєчня з томатами та ковбасою (у східному стилі).",
+            "local_url": "assets/dishes/eggs_tomato_sausage.jpg"
+          },
+          "aliases": [
+            "яичница",
+            "яєшня",
+            "шакшука",
+            "помидоры",
+            "колбаса",
+            "сніданок",
+            "завтрак",
+            "яйця"
+          ]
+        },
+        {
+          "name": "Яєчня з грибами і сиром",
+          "composition": null,
+          "weight": "—",
+          "price": "150 грн",
+          "photo_key": "eggs_mushroom_cheese",
+          "photo_status": "exact",
+          "photo_note": "Яєчня/омлет з печерицями та сиром.",
+          "id": "dish-89",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/2023-01-29_09_02_14_Omelette_with_cheddar_mushroom_and_tomato%2C_pork_sausage_links_and_corn_muffin_at_Capital_Health_Medical_Center_-_Hopewell_in_Hopewell_Township%2C_Mercer_County%2C_New_Jersey.jpg/960px-thumbnail.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/2023-01-29_09_02_14_Omelette_with_cheddar_mushroom_and_tomato%2C_pork_sausage_links_and_corn_muffin_at_Capital_Health_Medical_Center_-_Hopewell_in_Hopewell_Township%2C_Mercer_County%2C_New_Jersey.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:2023-01-29_09_02_14_Omelette_with_cheddar_mushroom_and_tomato,_pork_sausage_links_and_corn_muffin_at_Capital_Health_Medical_Center_-_Hopewell_in_Hopewell_Township,_Mercer_County,_New_Jersey.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Famartin",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Яєчня/омлет з печерицями та сиром.",
+            "local_url": "assets/dishes/eggs_mushroom_cheese.jpg"
+          },
+          "aliases": [
+            "яичница",
+            "яєшня",
+            "омлет",
+            "грибы",
+            "сыр",
+            "сніданок",
+            "завтрак",
+            "яйця"
+          ]
+        },
+        {
+          "name": "Яєчня із зеленню і в'яленою яловичиною",
+          "composition": null,
+          "weight": "—",
+          "price": "145 грн",
+          "photo_key": "eggs_greens_beef",
+          "photo_status": "flagged",
+          "photo_note": "Традиційна східна яєчня з кюкю/зеленню та бастурмою. Відзначено для студійної зйомки кафе.",
+          "id": "dish-90",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Carbonara_Scrambled_Eggs_on_Toasted_Sourdough_-_T_%40_Hove_2023-10-22.jpg/960px-Carbonara_Scrambled_Eggs_on_Toasted_Sourdough_-_T_%40_Hove_2023-10-22.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Carbonara_Scrambled_Eggs_on_Toasted_Sourdough_-_T_%40_Hove_2023-10-22.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Carbonara_Scrambled_Eggs_on_Toasted_Sourdough_-_T_@_Hove_2023-10-22.jpg",
+            "license": "CC0",
+            "artist": "Andy Li",
+            "source": "Wikimedia Commons",
+            "match_status": "flagged",
+            "note": "Традиційна східна яєчня з кюкю/зеленню та бастурмою. Відзначено для студійної зйомки кафе.",
+            "local_url": "assets/dishes/eggs_greens_beef.jpg"
+          },
+          "aliases": [
+            "яичница",
+            "яєшня",
+            "кюкю",
+            "бастурма",
+            "зелень",
+            "яловичина",
+            "говядина",
+            "сніданок",
+            "завтрак"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hot-dishes",
+      "name": "Гарячі страви",
+      "original_header": "ГАРЯЧІ СТРАВИ",
+      "is_duplicate_without_weight": false,
+      "note": null,
+      "items": [
+        {
+          "name": "Жарке зі свинними ребрами",
+          "composition": null,
+          "weight": "300 г",
+          "price": "260 грн",
+          "photo_key": "hot_pork_stew",
+          "photo_status": "exact",
+          "photo_note": "Домашня печеня (жарке) зі свинячими ребрами та картоплею.",
+          "id": "dish-91",
+          "photo": {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/H%C3%B6karpanna.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/H%C3%B6karpanna.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:H%C3%B6karpanna.jpg",
+            "license": "CC BY-SA 3.0",
+            "artist": "Jonathan Koertge",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Домашня печеня (жарке) зі свинячими ребрами та картоплею.",
+            "local_url": "assets/dishes/hot_pork_stew.jpg"
+          },
+          "aliases": [
+            "жаркое",
+            "печеня",
+            "тушеная картошка",
+            "рагу",
+            "свинина",
+            "ребра",
+            "гаряче",
+            "горячее"
+          ]
+        },
+        {
+          "name": "Пельмені зі сметаною",
+          "composition": null,
+          "weight": "200/50 г",
+          "price": "150 грн",
+          "photo_key": "hot_pelmeni_cream",
+          "photo_status": "exact",
+          "photo_note": "Пельмені зі сметаною на світлій тарілці.",
+          "id": "dish-92",
+          "photo": {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/DumplingsSourCreme.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/DumplingsSourCreme.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:DumplingsSourCreme.jpg",
+            "license": "CC BY-SA 2.0",
+            "artist": "avlxyz @ flickr",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Пельмені зі сметаною на світлій тарілці.",
+            "local_url": "assets/dishes/hot_pelmeni_cream.jpg"
+          },
+          "aliases": [
+            "пельмени",
+            "вареники",
+            "хінкалі",
+            "хинкали",
+            "тісто",
+            "м'ясо",
+            "сметана"
+          ]
+        },
+        {
+          "name": "Пельмені з грибами та сиром",
+          "composition": null,
+          "weight": "200/50/30 г",
+          "price": "160 грн",
+          "photo_key": "hot_pelmeni_mushrooms",
+          "photo_status": "exact",
+          "photo_note": "Пельмені з грибами під сиром.",
+          "id": "dish-93",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Pelmeni_in_Russia.jpg/960px-Pelmeni_in_Russia.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Pelmeni_in_Russia.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Pelmeni_in_Russia.jpg",
+            "license": "CC BY 2.0",
+            "artist": "Jorge Cancela @ Flickr",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Пельмені з грибами під сиром.",
+            "local_url": "assets/dishes/hot_pelmeni_mushrooms.jpg"
+          },
+          "aliases": [
+            "пельмени",
+            "вареники",
+            "грибы",
+            "сыр",
+            "сир"
+          ]
+        },
+        {
+          "name": "Відбивна куряча",
+          "composition": null,
+          "weight": "150/50 г",
+          "price": "140 грн",
+          "photo_key": "hot_chicken_cutlet",
+          "photo_status": "exact",
+          "photo_note": "Золотиста куряча відбивна.",
+          "id": "dish-94",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Allg%C3%A4uer_Schnitzel_mit_Kr%C3%A4uterr%C3%B6sti.jpg/960px-Allg%C3%A4uer_Schnitzel_mit_Kr%C3%A4uterr%C3%B6sti.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Allg%C3%A4uer_Schnitzel_mit_Kr%C3%A4uterr%C3%B6sti.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Allg%C3%A4uer_Schnitzel_mit_Kr%C3%A4uterr%C3%B6sti.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Kritzolina",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Золотиста куряча відбивна.",
+            "local_url": "assets/dishes/hot_chicken_cutlet.jpg"
+          },
+          "aliases": [
+            "отбивная куриная",
+            "шніцель",
+            "шницель",
+            "котлета",
+            "курка",
+            "курица",
+            "філе"
+          ]
+        },
+        {
+          "name": "Відбивна куряча з сиром та ананасом",
+          "composition": null,
+          "weight": "150/50 г",
+          "price": "160 грн",
+          "photo_key": "hot_chicken_pineapple",
+          "photo_status": "exact",
+          "photo_note": "Куряча відбивна, запечена з ананасом та сиром.",
+          "id": "dish-95",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/A_lake_tour_to_picturesque_Mackinac%3B_historical_and_descriptive_%281884%29_%2814772769314%29.jpg/960px-A_lake_tour_to_picturesque_Mackinac%3B_historical_and_descriptive_%281884%29_%2814772769314%29.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/A_lake_tour_to_picturesque_Mackinac%3B_historical_and_descriptive_%281884%29_%2814772769314%29.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:A_lake_tour_to_picturesque_Mackinac;_historical_and_descriptive_(1884)_(14772769314).jpg",
+            "license": "No restrictions",
+            "artist": "Internet Archive Book Images",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Куряча відбивна, запечена з ананасом та сиром.",
+            "local_url": "assets/dishes/hot_chicken_pineapple.jpg"
+          },
+          "aliases": [
+            "отбивная куриная",
+            "гавайська",
+            "ананас",
+            "сир",
+            "сыр",
+            "курка",
+            "курица"
+          ]
+        },
+        {
+          "name": "Відбивна свинина",
+          "composition": null,
+          "weight": "150/50 г",
+          "price": "150 грн",
+          "photo_key": "hot_pork_cutlet",
+          "photo_status": "exact",
+          "photo_note": "Соковита свиняча відбивна у паніровці.",
+          "id": "dish-96",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Oscar_schnitzel_at_Grilli_Toro.jpg/960px-Oscar_schnitzel_at_Grilli_Toro.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Oscar_schnitzel_at_Grilli_Toro.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Oscar_schnitzel_at_Grilli_Toro.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "JIP",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Соковита свиняча відбивна у паніровці.",
+            "local_url": "assets/dishes/hot_pork_cutlet.jpg"
+          },
+          "aliases": [
+            "отбивная свиная",
+            "шніцель",
+            "шницель",
+            "котлета",
+            "свинина",
+            "м'ясо"
+          ]
+        },
+        {
+          "name": "Відбивна свинина з грибами та сиром",
+          "composition": null,
+          "weight": "150/50 г",
+          "price": "160 грн",
+          "photo_key": "hot_pork_mushroom",
+          "photo_status": "exact",
+          "photo_note": "Свиняча відбивна з грибами під сирною скоринкою.",
+          "id": "dish-97",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Bone_in_pork_chop_-_City_Pork_Brasserie_%26_Bar%2C_Baton_Rouge.jpg/960px-Bone_in_pork_chop_-_City_Pork_Brasserie_%26_Bar%2C_Baton_Rouge.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bone_in_pork_chop_-_City_Pork_Brasserie_%26_Bar%2C_Baton_Rouge.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Bone_in_pork_chop_-_City_Pork_Brasserie_%26_Bar,_Baton_Rouge.jpg",
+            "license": "CC BY 4.0",
+            "artist": "Paul Lowry",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Свиняча відбивна з грибами під сирною скоринкою.",
+            "local_url": "assets/dishes/hot_pork_mushroom.jpg"
+          },
+          "aliases": [
+            "отбивная свиная",
+            "м'ясо по-французьки",
+            "мясо по-французски",
+            "грибы",
+            "сыр",
+            "свинина"
+          ]
+        },
+        {
+          "name": "Смажена яловича печінка з цибулею",
+          "composition": null,
+          "weight": "250 г",
+          "price": "220 грн",
+          "photo_key": "hot_beef_liver",
+          "photo_status": "exact",
+          "photo_note": "Смажена яловича печінка з карамелізованою цибулею.",
+          "id": "dish-98",
+          "photo": {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Fried_cow_liver.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Fried_cow_liver.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Fried_cow_liver.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Shoodho",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Смажена яловича печінка з карамелізованою цибулею.",
+            "local_url": "assets/dishes/hot_beef_liver.jpg"
+          },
+          "aliases": [
+            "печень жареная",
+            "печінка смажена",
+            "яловича",
+            "говяжья",
+            "цибуля",
+            "лук"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pizza",
+      "name": "Піца",
+      "original_header": "ПІЦА",
+      "is_duplicate_without_weight": false,
+      "note": "Усі піци подаються у розмірі 32 см (збережено оригінальне написання назв з меню).",
+      "items": [
+        {
+          "name": "Піцца «Збірна»",
+          "composition": null,
+          "weight": "32 см",
+          "price": "320 грн",
+          "photo_key": "pizza_mixed",
+          "photo_status": "exact",
+          "photo_note": "М'ясна збірна піца (вид зверху).",
+          "id": "dish-99",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Super_Supreme_Pizza%2C_Pizza_Hut_Perth%2C_2026_%2801%29.jpg/960px-Super_Supreme_Pizza%2C_Pizza_Hut_Perth%2C_2026_%2801%29.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Super_Supreme_Pizza%2C_Pizza_Hut_Perth%2C_2026_%2801%29.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Super_Supreme_Pizza,_Pizza_Hut_Perth,_2026_(01).jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Bahnfrend",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "М'ясна збірна піца (вид зверху).",
+            "local_url": "assets/dishes/pizza_mixed.jpg"
+          },
+          "aliases": [
+            "піца",
+            "пицца",
+            "збірна",
+            "сборная",
+            "м'ясна",
+            "мясная",
+            "асорті"
+          ]
+        },
+        {
+          "name": "Піцца «Чотири сири»",
+          "composition": null,
+          "weight": "32 см",
+          "price": "300 грн",
+          "photo_key": "pizza_four_cheese",
+          "photo_status": "exact",
+          "photo_note": "Піца Чотири сири (Quattro Formaggi).",
+          "id": "dish-100",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Pizza_Quattro_Formaggi_con_Penne_%28120FAITH_4149%29.jpg/960px-Pizza_Quattro_Formaggi_con_Penne_%28120FAITH_4149%29.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Pizza_Quattro_Formaggi_con_Penne_%28120FAITH_4149%29.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Pizza_Quattro_Formaggi_con_Penne_(120FAITH_4149).jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Janko Hoener",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Піца Чотири сири (Quattro Formaggi).",
+            "local_url": "assets/dishes/pizza_four_cheese.jpg"
+          },
+          "aliases": [
+            "піца",
+            "пицца",
+            "4 сири",
+            "4 сыра",
+            "четыре сыра",
+            "кватро формаджі",
+            "сирна"
+          ]
+        },
+        {
+          "name": "Піцца «Гавайська»",
+          "composition": null,
+          "weight": "32 см",
+          "price": "300 грн",
+          "photo_key": "pizza_hawaiian",
+          "photo_status": "exact",
+          "photo_note": "Піца Гавайська з куркою/шинкою та ананасами.",
+          "id": "dish-101",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Ham_and_pineapple_pizza%2C_The_Mill_Pizza.jpg/960px-Ham_and_pineapple_pizza%2C_The_Mill_Pizza.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Ham_and_pineapple_pizza%2C_The_Mill_Pizza.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Ham_and_pineapple_pizza,_The_Mill_Pizza.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Michael Rivera",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Піца Гавайська з куркою/шинкою та ананасами.",
+            "local_url": "assets/dishes/pizza_hawaiian.jpg"
+          },
+          "aliases": [
+            "піца",
+            "пицца",
+            "гавайская",
+            "ананас",
+            "курка",
+            "курица"
+          ]
+        },
+        {
+          "name": "Піцца з куркою",
+          "composition": null,
+          "weight": "32 см",
+          "price": "280 грн",
+          "photo_key": "pizza_chicken",
+          "photo_status": "exact",
+          "photo_note": "Апетитна піца з куркою та сиром.",
+          "id": "dish-102",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Chicken_Pizza_1.jpg/960px-Chicken_Pizza_1.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Chicken_Pizza_1.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Chicken_Pizza_1.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Gaurav Dhwaj Khadka",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Апетитна піца з куркою та сиром.",
+            "local_url": "assets/dishes/pizza_chicken.jpg"
+          },
+          "aliases": [
+            "піца",
+            "пицца",
+            "с курицей",
+            "куряча"
+          ]
+        },
+        {
+          "name": "Піцца «Папероні»",
+          "composition": null,
+          "weight": "32 см",
+          "price": "280 грн",
+          "photo_key": "pizza_pepperoni",
+          "photo_status": "exact",
+          "photo_note": "Піца Пепероні («Папероні» за оригіналом меню).",
+          "id": "dish-103",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Pizza_Tradici%C3%B3n_Napolitana.jpg/960px-Pizza_Tradici%C3%B3n_Napolitana.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Pizza_Tradici%C3%B3n_Napolitana.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Pizza_Tradici%C3%B3n_Napolitana.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Rjcastillo",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Піца Пепероні («Папероні» за оригіналом меню).",
+            "local_url": "assets/dishes/pizza_pepperoni.jpg"
+          },
+          "aliases": [
+            "піца",
+            "пицца",
+            "пепероні",
+            "пепперони",
+            "салямі",
+            "салями",
+            "ковбаса"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "desserts",
+      "name": "Десерти",
+      "original_header": "ДЕСЕРТИ",
+      "is_duplicate_without_weight": false,
+      "note": null,
+      "items": [
+        {
+          "name": "Морозиво пломбір",
+          "composition": null,
+          "weight": "150 г",
+          "price": "100 грн",
+          "photo_key": "dessert_plombir",
+          "photo_status": "exact",
+          "photo_note": "Класичний вершковий пломбір.",
+          "id": "dish-104",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Apple_cake_with_vanilla_ice_cream_1.jpg/960px-Apple_cake_with_vanilla_ice_cream_1.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Apple_cake_with_vanilla_ice_cream_1.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Apple_cake_with_vanilla_ice_cream_1.jpg",
+            "license": "CC0",
+            "artist": "W.carter",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Класичний вершковий пломбір.",
+            "local_url": "assets/dishes/dessert_plombir.jpg"
+          },
+          "aliases": [
+            "десерт",
+            "мороженое",
+            "пломбир",
+            "солодке",
+            "сладкое"
+          ]
+        },
+        {
+          "name": "Морозиво з фруктами та згущеним молоком",
+          "composition": null,
+          "weight": "150 г",
+          "price": "150 грн",
+          "photo_key": "dessert_icecream_fruit",
+          "photo_status": "exact",
+          "photo_note": "Морозиво зі шматочками свіжих фруктів і топпінгом.",
+          "id": "dish-105",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Stir-fried_ice_cream_being_prepared%2C_September_2016.jpg/960px-Stir-fried_ice_cream_being_prepared%2C_September_2016.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Stir-fried_ice_cream_being_prepared%2C_September_2016.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Stir-fried_ice_cream_being_prepared,_September_2016.jpg",
+            "license": "CC0",
+            "artist": "Thomson200",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Морозиво зі шматочками свіжих фруктів і топпінгом.",
+            "local_url": "assets/dishes/dessert_icecream_fruit.jpg"
+          },
+          "aliases": [
+            "десерт",
+            "мороженое с фруктами",
+            "згущонка",
+            "сгущенка",
+            "солодке"
+          ]
+        },
+        {
+          "name": "Смачняшка",
+          "composition": null,
+          "weight": "150 г",
+          "price": "180 грн",
+          "photo_key": "dessert_smachnyashka",
+          "photo_status": "flagged",
+          "photo_note": "Фірмовий десерт «Смачняшка» без розшифровки складу у файлі меню — позначено окремо для заміни на фото закладу.",
+          "id": "dish-106",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Bavarois.jpg/960px-Bavarois.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Bavarois.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Bavarois.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "E4024",
+            "source": "Wikimedia Commons",
+            "match_status": "flagged",
+            "note": "Фірмовий десерт «Смачняшка» без розшифровки складу у файлі меню — позначено окремо для заміни на фото закладу.",
+            "local_url": "assets/dishes/dessert_smachnyashka.jpg"
+          },
+          "aliases": [
+            "десерт",
+            "вкусняшка",
+            "смаколик",
+            "солодке",
+            "сладкое"
+          ]
+        },
+        {
+          "name": "Фруктовий рай",
+          "composition": null,
+          "weight": "150 г",
+          "price": "190 грн",
+          "photo_key": "dessert_fruit_paradise",
+          "photo_status": "flagged",
+          "photo_note": "Фруктовий десерт «Фруктовий рай» (показано фруктову подачу; рекомендовано власне фото).",
+          "id": "dish-107",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Fruit_salad_at_Antell_Martintalo_in_2020.jpg/960px-Fruit_salad_at_Antell_Martintalo_in_2020.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Fruit_salad_at_Antell_Martintalo_in_2020.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Fruit_salad_at_Antell_Martintalo_in_2020.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "JIP",
+            "source": "Wikimedia Commons",
+            "match_status": "flagged",
+            "note": "Фруктовий десерт «Фруктовий рай» (показано фруктову подачу; рекомендовано власне фото).",
+            "local_url": "assets/dishes/dessert_fruit_paradise.jpg"
+          },
+          "aliases": [
+            "десерт",
+            "фруктовый салат",
+            "фруктова нарізка",
+            "фрукты",
+            "фрукти"
+          ]
+        },
+        {
+          "name": "Млинці з сиром та родзинками",
+          "composition": null,
+          "weight": "0.200 г",
+          "price": "120 грн",
+          "photo_key": "dessert_pancakes_curd",
+          "photo_status": "exact",
+          "photo_note": "Домашні налисники з кисломолочним сиром та родзинками (вага «0.200 г» збережена з оригіналу).",
+          "id": "dish-108",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Blini_stuffed_with_vanilla_cottage_cheese_with_soured_cream_and_raspberry_jam_in_Veselka.jpg/960px-Blini_stuffed_with_vanilla_cottage_cheese_with_soured_cream_and_raspberry_jam_in_Veselka.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Blini_stuffed_with_vanilla_cottage_cheese_with_soured_cream_and_raspberry_jam_in_Veselka.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Blini_stuffed_with_vanilla_cottage_cheese_with_soured_cream_and_raspberry_jam_in_Veselka.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Victoria",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Домашні налисники з кисломолочним сиром та родзинками (вага «0.200 г» збережена з оригіналу).",
+            "local_url": "assets/dishes/dessert_pancakes_curd.jpg"
+          },
+          "aliases": [
+            "десерт",
+            "блины",
+            "блинчики",
+            "налисники",
+            "творог",
+            "сир",
+            "изюм",
+            "родзинки"
+          ]
+        },
+        {
+          "name": "Млинці з м'ясом",
+          "composition": null,
+          "weight": "0.200 г",
+          "price": "145 грн",
+          "photo_key": "dessert_pancakes_meat",
+          "photo_status": "exact",
+          "photo_note": "Обсмажені млинці з м'ясною начинкою.",
+          "id": "dish-109",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Xangurro_in_Essence%2C_its_Coral_Blini_and_%22Gurullos%22.jpg/960px-Xangurro_in_Essence%2C_its_Coral_Blini_and_%22Gurullos%22.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Xangurro_in_Essence%2C_its_Coral_Blini_and_%22Gurullos%22.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Xangurro_in_Essence,_its_Coral_Blini_and_%22Gurullos%22.jpg",
+            "license": "CC BY 2.0",
+            "artist": "Brian Teutsch",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Обсмажені млинці з м'ясною начинкою.",
+            "local_url": "assets/dishes/dessert_pancakes_meat.jpg"
+          },
+          "aliases": [
+            "блины с мясом",
+            "блинчики",
+            "налисники з м'ясом",
+            "млинці"
+          ]
+        },
+        {
+          "name": "Пахлава",
+          "composition": null,
+          "weight": "0.200 г (200 г)",
+          "price": "90 грн",
+          "photo_key": "dessert_baklava",
+          "photo_status": "exact",
+          "photo_note": "Традиційна азербайджанська медова пахлава з горіхом.",
+          "id": "dish-110",
+          "photo": {
+            "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Baklava._Azerbaijan.jpg/960px-Baklava._Azerbaijan.jpg",
+            "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Baklava._Azerbaijan.jpg",
+            "page_url": "https://commons.wikimedia.org/wiki/File:Baklava._Azerbaijan.jpg",
+            "license": "CC BY-SA 4.0",
+            "artist": "Valentina Dyptan",
+            "source": "Wikimedia Commons",
+            "match_status": "exact",
+            "note": "Традиційна азербайджанська медова пахлава з горіхом.",
+            "local_url": "assets/dishes/dessert_baklava.jpg"
+          },
+          "aliases": [
+            "десерт",
+            "пахлава",
+            "баклава",
+            "азербайджанська пахлава",
+            "восточные сладости",
+            "горіхи",
+            "мед",
+            "солодке"
+          ]
+        }
+      ]
+    }
+  ]
+}
