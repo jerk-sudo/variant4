@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="uk">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -8,38 +9,33 @@
   <link rel="shortcut icon" href="favicon.ico" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Lora:wght@600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Philosopher:wght@700&display=swap"
+    rel="stylesheet">
   <link rel="stylesheet" href="styles.css" />
 </head>
+
 <body>
   <div class="menu-page">
-    <header class="hero-emerald">
-      <div class="hero-emerald__brand">
-        <img src="assets/logo_aisel.png" alt="Айсель" class="hero-emerald__logo" />
-        <p class="hero-emerald__subtitle">Натуральні продукти • Азербайджанська кухня • Незабутній смак</p>
-      </div>
-      <div class="hero-emerald__photo-card">
-        <img src="assets/hero_odyn_stil.jpg" alt="Страви кафе Айсель" />
+    <header class="carpet-hero">
+      <div class="carpet-hero__bg"></div>
+      <div class="carpet-hero__medallion">
+        <img src="assets/logo_aisel.png" alt="Айсель" class="carpet-hero__logo" />
+        <p class="carpet-hero__text">Азербайджанська та українська гостинність</p>
       </div>
     </header>
 
-    <main class="menu-body">
-      <div class="menu-body__top">
-        <h1 class="menu-heading">Наше меню</h1>
-        <div class="search-box">
-          <input type="search" placeholder="Пошук страви..." oninput="handleSearch(this.value)" />
-        </div>
+    <nav class="heritage-nav">
+      <div class="heritage-search">
+        <input type="search" placeholder="Пошук страви у меню..." oninput="handleSearch(this.value)" />
       </div>
+      <div class="cat-rail" id="categoryRail"></div>
+    </nav>
 
-      <nav class="cat-rail-wrap">
-        <div class="cat-rail" id="categoryRail"></div>
-      </nav>
+    <main class="heritage-catalog" id="catalogContainer"></main>
 
-      <div class="catalog-list" id="catalogContainer"></div>
-    </main>
-
-    <footer class="menu-footer">
-      <img src="assets/logo_aisel.png" alt="Айсель" class="menu-footer__logo" />
+    <footer class="heritage-footer">
+      <img src="assets/logo_aisel.png" alt="Айсель" style="height:40px; margin-bottom:8px;" />
       <p>Натуральні продукти • Азербайджанська кухня • Незабутній смак</p>
     </footer>
   </div>
@@ -67,4 +63,5 @@
 
   <script src="app.js"></script>
 </body>
+
 </html>
